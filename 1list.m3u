@@ -1,175 +1,662 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id=”” tvg-name=”Te Amo Morra” tvg-logo=”http://mylatinotv.com/images/mexico/cnn.png” group-title=””,CNN ESP_
-http://62.210.139.229:25461/9115059399/4414261712/113
-
-#EXTINF:-1,PARAMOUNT CHANEL
-http://paramount.live.flumotion.com/live/playlist.m3u8
-
-#EXTINF:-1,CINE PARAMOUNT
-http://paramount.live.flumotion.com/live/chunks.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,NATGEO
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-
-#EXTINF:-1,NATGEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1,MAX PRIME
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-
-#EXTINF:-1,A&E
-http://balancer1.ottmex.com:8081/tecno/AyE.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,ANTENA SERIES
-http://balancer1.ottmex.com:8081/BKR/AntenaSeries.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,EI
-http://balancer1.ottmex.com:8081/BKR/Eentertainment.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,FOX LIFE
-http://balancer1.ottmex.com:8081/BKR/Foxlife.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,MAS CHIC
-http://balancer1.ottmex.com:8081/BKR/MasChic.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,SONY
-http://balancer1.ottmex.com:8081/tecno/Sony.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,STUDIO UNIVERSAL
-http://balancer1.ottmex.com:8081/BKR/StudioUniversal.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
-http://balancer1.ottmex.com:8081/BKR/Telemundoint.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,WARNER BROS
-http://balancer1.ottmex.com:8081/BKR/Warner.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,DISTRITO COMEDIA
-http://balancer1.ottmex.com:8081/tecno/Distritocomedia.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,FOX
-http://balancer1.ottmex.com:8081/BKR/Fox.BKR/chunks.m3u8
-
-#EXTINF:-1,TNT
-http://balancer1.ottmex.com:8081/BKR/Tnt.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,HBO
-http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO 2
-http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO PLUS
-http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO SIGNATURE
-http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO FAMILY
-http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,FOX PREMIUM
-http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,FOX SERIES
-http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,FOX FAMILY
-http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,GOLDEN PREMIER
-http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HGTV
-http://balancer1.ottmex.com:8081/BKR/HGTV.TecnoByte/chunks.m3u8
-
-#EXTINF:-1 tvg-id=”” tvg-name=”HOLA TV” tvg-logo=”http://mylatinotv.com/images/mexico/holatv.png” group-title=””,HOLA TV
-http://62.210.139.229:25461/9115059399/4414261712/77
-
-#EXTINF:-1,GOURMET
-http://balancer1.ottmex.com:8081/BKR/Gourmet.TecnoByre/chunks.m3u8
-
-#EXTINF:-1,NATGEO WILD
-http://balancer1.ottmex.com:8081/BKR/NatgeoWild.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,DISCOVERY THEATER
-http://balancer1.ottmex.com:8081/BKR/Discovery_Theater.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,DISCOVERY SCENCE
-http://balancer1.ottmex.com:8081/BKR/DiscoverySci.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,DISCOVERY TURBO
-http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,DISCOVERY ID
-http://balancer1.ottmex.com:8081/tecno/ID.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,DISNEY JR
-http://balancer1.ottmex.com:8081/BKR/DisneyJR.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,DISNEY CHANEL
-http://balancer1.ottmex.com:8081/BKR/Disneychann.TecnoByte/chunks.m3u8
-
-#EXTINF:-1,DISNEY XD
-http://balancer1.ottmex.com:8081/BKR/DisneyXD.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-http://balancer1.ottmex.com:8081/BKR/CartoonNetwork/chunks.m3u8
-
-#EXTINF:-1,TOONCAST
-http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,BABY TV
-http://balancer1.ottmex.com:8081/tecno/Babytv.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,TUDN
-http://balancer1.ottmex.com:8081/BKR/tdn.BKR/chunks.m3u8
-
+#EXTM3U#EXTINF:-1,MX | Fox Comedy FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/69844
+#EXTINF:-1,Beddua The Curse
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30421.mp4
+#EXTINF:-1,Bugcrush
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30422.mp4
+#EXTINF:-1,Count Dracula
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30423.mp4
+#EXTINF:-1,The Fearless Vampire Killers
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30424.mp4
+#EXTINF:-1,Deadsight
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30425.mp4
+#EXTINF:-1,House Shark
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30426.mp4
+#EXTINF:-1,Isabelle
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30427.mp4
+#EXTINF:-1,Karma
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30428.mp4
+#EXTINF:-1,Killer High
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30429.mp4
+#EXTINF:-1,Heartbeat
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30430.mp4
+#EXTINF:-1,Lips of Blood
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30431.mp4
+#EXTINF:-1,Don't Deliver Us from Evil
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30432.mp4
+#EXTINF:-1,Scanners II: The New Order
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30433.mp4
+#EXTINF:-1,Scanners III: The Takeover
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30434.mp4
+#EXTINF:-1,Suzzanna: Buried Alive
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30435.mp4
+#EXTINF:-1,The Convent
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30436.mp4
+#EXTINF:-1,The Mermaid: Lake of the Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30437.mp4
+#EXTINF:-1,The Perfection
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30438.mp4
+#EXTINF:-1,The Strange Vice of Mrs Wardh
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30439.mp4
+#EXTINF:-1,The Black Balloon
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30440.mp4
+#EXTINF:-1,Deadly Delusion
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30441.mp4
+#EXTINF:-1,Fast Color
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30442.mp4
+#EXTINF:-1,Flower Shop Mystery: Mum's the Word
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30443.mp4
+#EXTINF:-1,Greta
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30444.mp4
+#EXTINF:-1,King of New York
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30445.mp4
+#EXTINF:-1,Psycho Prom Queen
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30446.mp4
+#EXTINF:-1,The Abusers of Virgin Girls
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30447.mp4
+#EXTINF:-1,Peril
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30448.mp4
+#EXTINF:-1,Rope and Skin
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30449.mp4
+#EXTINF:-1,Sangre blanca
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30450.mp4
+#EXTINF:-1,The Sleepwalker
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30451.mp4
+#EXTINF:-1,The Funeral
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30452.mp4
+#EXTINF:-1,The Man with the Golden Arm
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30453.mp4
+#EXTINF:-1,The Pale Man
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30454.mp4
+#EXTINF:-1,Twin Betrayal
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30455.mp4
+#EXTINF:-1,We Have Always Lived in the Castle
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30456.mp4
+#EXTINF:-1,Witness Unprotected
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/30457.mp4
+#EXTINF:-1,Sony
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/18
+#EXTINF:-1,Warner Bros
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/19
+#EXTINF:-1,Universal Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/20
+#EXTINF:-1,MX | FX FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/21
+#EXTINF:-1,AyE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/22
 #EXTINF:-1,AXN
-http://54.39.104.194:8081/bunker/Axn_51/chunks.m3u8
-
-#EXTINF:-1,CINEMAX
-http://54.39.104.194:8081/bunker/CineMax_40/chunks.m3u8
-
-#EXTINF:-1,TELEVISA
-http://54.39.104.194:8081/bunker/TeleVisaMTY_16/chunks.m3u8
-
-#EXTINF:-1,UNIVERSAL
-http://54.39.104.194:8081/bunker/Universal_44/chunks.m3u8
-
-#EXTINF:-1,SPACE
-http://54.39.104.194:8081/bunker/Space_25/chunks.m3u8
-
-#EXTINF:-1,FX
-http://54.39.104.194:8081/bunker/fx_42/chunks.m3u8
-
-#EXTINF:-1,HISTORY CHANEL
-http://54.39.104.194:8081/bunker/History_49/chunks.m3u8
-
-#EXTINF:-1,NATGEO
-http://54.39.104.194:8081/bunker/N.G_48/chunks.m3u8
-
-#EXTINF:-1,TELEMAX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-
-#EXTINF:-1,RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1,LATINOS UP
-https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
-
-#EXTINF:-1,ANTENA 3
-https://livestartover.atresmedia.com/antena3/master.m3u8
-
-#EXTINF:-1,MTV CLIPES 1
-http://rtmp.one.by:1200
-
-#EXTINF:-1,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-
-#EXTINF:-1,RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,PORTAL FOX MIX
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/23
+#EXTINF:-1,TruTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/24
+#EXTINF:-1,Comedy Central
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/25
+#EXTINF:-1,E entertainment
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/33
+#EXTINF:-1,Syfy
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/34
+#EXTINF:-1,Discovery ID
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/35
+#EXTINF:-1,Discovery Kids
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/46
+#EXTINF:-1,MX | Disney Junior FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/47
+#EXTINF:-1,Disney Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/49
+#EXTINF:-1,MX | Nick FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/51
+#EXTINF:-1,Cartoon Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/53
+#EXTINF:-1,Disney XD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/54
+#EXTINF:-1,Boomerang
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/55
+#EXTINF:-1,History
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/59
+#EXTINF:-1,Discovery World HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/61
+#EXTINF:-1,Discovery Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/62
+#EXTINF:-1,Discovery Home and Health
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/64
+#EXTINF:-1,MX | NatGeo Channel FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/65
+#EXTINF:-1,Lifetime
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/66
+#EXTINF:-1,TLC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/69
+#EXTINF:-1,Fox Series FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/71
+#EXTINF:-1,MX | Fox Movies FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/73
+#EXTINF:-1,Cinecanal HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/77
+#EXTINF:-1,TNT HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/78
+#EXTINF:-1,Golden HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/79
+#EXTINF:-1,AMC HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/82
+#EXTINF:-1,Morbido HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/85
+#EXTINF:-1,Cinemax FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/86
+#EXTINF:-1,Studio Universal
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/93
+#EXTINF:-1,MTV HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/129
+#EXTINF:-1,MX | FX Movies FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/148
+#EXTINF:-1,Discovery Theater
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/249
+#EXTINF:-1,Animal Planet HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/250
+#EXTINF:-1,Discovery Turbo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/251
+#EXTINF:-1,USA | HGTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/262
+#EXTINF:-1,USA | AMC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/263
+#EXTINF:-1,USA | TNT
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/264
+#EXTINF:-1,USA | Discovery Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/265
+#EXTINF:-1,USA | BBC America
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/266
+#EXTINF:-1,USA | Discovery ID
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/267
+#EXTINF:-1,USA | E!
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/268
+#EXTINF:-1,Latino | Caracol
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/271
+#EXTINF:-1,USA | Unimas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/273
+#EXTINF:-1,Latino | Win Sports
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/274
+#EXTINF:-1,PR | Mega TV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/275
+#EXTINF:-1,PR | Punto 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/277
+#EXTINF:-1,PR | WIPR
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/279
+#EXTINF:-1,PR | WAPA 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/281
+#EXTINF:-1,USA | A&E
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/282
+#EXTINF:-1,USA | ACC Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/285
+#EXTINF:-1,USA | American Heroes Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/286
+#EXTINF:-1,USA | Animal Planet
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/287
+#EXTINF:-1,USA | BET
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/289
+#EXTINF:-1,USA | BET Her
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/290
+#EXTINF:-1,USA | Big Ten Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/291
+#EXTINF:-1,USA | Boomerang
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/292
+#EXTINF:-1,USA | Bravo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/293
+#EXTINF:-1,USA | Cartoon Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/294
+#EXTINF:-1,USA | Cinemax East
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/297
+#EXTINF:-1,USA | CMT
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/299
+#EXTINF:-1,USA | CNBC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/300
+#EXTINF:-1,USA | CNN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/301
+#EXTINF:-1,USA | Comedy Central
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/302
+#EXTINF:-1,USA | Cooking Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/303
+#EXTINF:-1,USA | Cozi TV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/304
+#EXTINF:-1,USA | Destination America
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/307
+#EXTINF:-1,USA | Discovery Family
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/308
+#EXTINF:-1,USA | Discovery Life
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/309
+#EXTINF:-1,USA | Discovery Science
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/310
+#EXTINF:-1,USA | Disney Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/311
+#EXTINF:-1,USA | Disney Jr
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/312
+#EXTINF:-1,USA | Disney XD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/313
+#EXTINF:-1,USA | DIY
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/314
+#EXTINF:-1,USA | EPIX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/316
+#EXTINF:-1,USA | EPIX 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/317
+#EXTINF:-1,USA | EPIX HITS
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/318
+#EXTINF:-1,USA | ESPN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/319
+#EXTINF:-1,USA | ESPN News
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/321
+#EXTINF:-1,USA | ESPN U
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/322
+#EXTINF:-1,MX | Bloomberg
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/571
+#EXTINF:-1,USA | BBC World New
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/572
+#EXTINF:-1,TVE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/573
+#EXTINF:-1,Antena3
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/574
+#EXTINF:-1,MX | MTV Live HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/575
+#EXTINF:-1,MX | Telehit HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/576
+#EXTINF:-1,MX | VH1 HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/577
+#EXTINF:-1,MX|HD AzClic HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/578
+#EXTINF:-1,MX | MTV HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/579
+#EXTINF:-1,MX | MTV Hits
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/580
+#EXTINF:-1,MX | VH1 Classics
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/581
+#EXTINF:-1,MX | Bandamax
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/582
+#EXTINF:-1,MX | AzCorazon
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/584
+#EXTINF:-1,MX | Baby First
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/589
+#EXTINF:-1,A3series
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/590
+#EXTINF:-1,MX | Nick2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/591
+#EXTINF:-1,MX | Havoc
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/592
+#EXTINF:-1,MX | Discovery Turbo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/593
+#EXTINF:-1,MX | Hbo FAM
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/595
+#EXTINF:-1,MX|HD Azteca Uno HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/471
+#EXTINF:-1,MX | Canal De Las Estrellas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/472
+#EXTINF:-1,MX | ImagenTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/473
+#EXTINF:-1,MX | ForoTv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/474
+#EXTINF:-1,MX | Canal 5
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/475
+#EXTINF:-1,MX | Azteca7
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/476
+#EXTINF:-1,MX | GalaTV HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/477
+#EXTINF:-1,MX | Canal 11 HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/478
+#EXTINF:-1,MX|HD Mexiquense
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/480
+#EXTINF:-1,MX | Ingenio Tv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/481
+#EXTINF:-1,MX | Teleformula
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/482
+#EXTINF:-1,MX|HD Multimedios
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/483
+#EXTINF:-1,MX | Fox Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/484
+#EXTINF:-1,MX | Sony
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/485
+#EXTINF:-1,MX | Warner Bros
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/486
+#EXTINF:-1,MX | Universal Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/487
+#EXTINF:-1,MX | FX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/488
+#EXTINF:-1,MX | AyE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/489
+#EXTINF:-1,MX | AXN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/490
+#EXTINF:-1,MX | TruTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/491
+#EXTINF:-1,MX | Comedy Central
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/492
+#EXTINF:-1,MX | Unicable
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/493
+#EXTINF:-1,MX | HolaTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/494
+#EXTINF:-1,MX | MasChic
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/495
+#EXTINF:-1,MX | Food Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/496
+#EXTINF:-1,MX|HD TVC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/497
+#EXTINF:-1,MX | E! entertainment
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/500
+#EXTINF:-1,MX | Syfy
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/501
+#EXTINF:-1,MX | Discovery Investigation
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/502
+#EXTINF:-1,MX | TNT Series
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/503
+#EXTINF:-1,MX | El Gourmet
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/504
+#EXTINF:-1,MX | El Garage
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/505
+#EXTINF:-1,MX | Glitz
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/506
+#EXTINF:-1,MX | FoxLife
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/507
+#EXTINF:-1,MX | Distrito Comedia
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/508
+#EXTINF:-1,MX | TBS
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/509
+#EXTINF:-1,MX | Tlnovelas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/510
+#EXTINF:-1,MX | AzMundo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/511
+#EXTINF:-1,MX | BabyTv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/512
+#EXTINF:-1,MX | Discovery Kids
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/513
+#EXTINF:-1,MX | Disney Junior
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/514
+#EXTINF:-1,MX | Nick Junior
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/515
+#EXTINF:-1,MX | Disney Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/516
+#EXTINF:-1,MX | NickToons
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/517
+#EXTINF:-1,MX | Nick HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/518
+#EXTINF:-1,MX | Cartoon Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/519
+#EXTINF:-1,MX | Disney XD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/520
+#EXTINF:-1,MX | Boomerang
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/521
+#EXTINF:-1,MX | Tooncast
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/522
+#EXTINF:-1,MX | Discovery Theater HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/523
+#EXTINF:-1,MX | History
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/524
+#EXTINF:-1,MX | NatGeo Wild
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/525
+#EXTINF:-1,MX | Discovery World HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/526
+#EXTINF:-1,MX | Discovery Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/527
+#EXTINF:-1,MX | Animal Planet
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/528
+#EXTINF:-1,MX | Discovery Home and Health
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/529
+#EXTINF:-1,MX | NatGeo Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/530
+#EXTINF:-1,MX | Lifetime
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/531
+#EXTINF:-1,MX | Discovery Science
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/532
+#EXTINF:-1,MX | Discovery Civilization
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/533
+#EXTINF:-1,MX | TLC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/534
+#EXTINF:-1,MX | Wobi
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/535
+#EXTINF:-1,MX | Fox Series HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/536
+#EXTINF:-1,MX | Fox Action HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/537
+#EXTINF:-1,MX | Fox Movies
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/538
+#EXTINF:-1,MX | Fox Cinema
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/539
+#EXTINF:-1,MX | Fox Classics
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/540
+#EXTINF:-1,MX | AzCinema HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/541
+#EXTINF:-1,MX | Cinecanal HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/542
+#EXTINF:-1,MX | TNT HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/543
+#EXTINF:-1,MX | Golden HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/544
+#EXTINF:-1,MX | FX Movies HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/545
+#EXTINF:-1,MX | De Pelicula HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/546
+#EXTINF:-1,MX | AMC HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/547
+#EXTINF:-1,MX | Space HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/548
+#EXTINF:-1,MX | Sundance Tv HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/549
+#EXTINF:-1,MX|HD Morbido HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/550
+#EXTINF:-1,MX | Cinemax
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/551
+#EXTINF:-1,MX | Golden
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/552
+#EXTINF:-1,MX | Golden Edge
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/553
+#EXTINF:-1,MX|HD De Pelicula
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/554
+#EXTINF:-1,MX | Studio Universal
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/555
+#EXTINF:-1,MX | Eeuropa Europa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/556
+#EXTINF:-1,MX | Film & Arts
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/557
+#EXTINF:-1,MX | Golf Channel HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/559
+#EXTINF:-1,MX | Espn Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/560
+#EXTINF:-1,MX | Espn 3
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/561
+#EXTINF:-1,MX | Fox Sports HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/562
+#EXTINF:-1,MX | Fox Sports 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/563
+#EXTINF:-1,MX | Espn Sec
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/564
+#EXTINF:-1,MX | Espn HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/566
+#EXTINF:-1,MX|HD Espn 2 HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/567
+#EXTINF:-1,MX | Fox Sports 3
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/568
+#EXTINF:-1,MX | AyM Sports
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/569
+#EXTINF:-1,MX | CNN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/570
+#EXTINF:-1,USA | Eleven Sports
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/315
+#EXTINF:-1,UltraLuna
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/421
+#EXTINF:-1,UltraCine
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/422
+#EXTINF:-1,UltraMex
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/423
+#EXTINF:-1,UltraFiesta
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/424
+#EXTINF:-1,UltraFilm
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/425
+#EXTINF:-1,UltraMacho
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/426
+#EXTINF:-1,UltraClasico
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/427
+#EXTINF:-1,UltraFamilia
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/428
+#EXTINF:-1,orbita tv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/433
+#EXTINF:-1,24horas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/435
+#EXTINF:-1,france24hd
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/436
+#EXTINF:-1,canal44
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/438
+#EXTINF:-1,estrellatv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/440
+#EXTINF:-1,PacificoTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/441
+#EXTINF:-1,zeemundo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/443
+#EXTINF:-1,naturevision
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/444
+#EXTINF:-1,supercanal
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/449
+#EXTINF:-1,tele-el-salvador
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/450
+#EXTINF:-1,c7jalisco
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/453
+#EXTINF:-1,cubaplay
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/454
+#EXTINF:-1,insight_tv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/445
+#EXTINF:-1,cbtv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/452
+#EXTINF:-1,gran cine
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/455
+#EXTINF:-1,telen
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/457
+#EXTINF:-1,sorpresa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/456
+#EXTINF:-1,dominican view
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/458
+#EXTINF:-1,telemicro
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/460
+#EXTINF:-1,lasusa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/459
+#EXTINF:-1,sonlife spanish
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/461
+#EXTINF:-1,enlace
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/462
+#EXTINF:-1,aliento vision
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/463
+#EXTINF:-1,senal de vida
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/464
+#EXTINF:-1,canal 44
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/465
+#EXTINF:-1,Fix and Foxi
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/467
+#EXTINF:-1,ultra docu
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/468
+#EXTINF:-1,ultra banda
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/469
+#EXTINF:-1,ultrat ainment
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/470
+#EXTINF:-1,USA | SNY
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/386
+#EXTINF:-1,USA | OWN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/371
+#EXTINF:-1,USA | Pop
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/378
+#EXTINF:-1,USA | Outside
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/369
+#EXTINF:-1,USA | Fox Business Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/326
+#EXTINF:-1,USA | Hallmark Movies & Mysteries
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/345
+#EXTINF:-1,USA | Hallmark Drama
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/344
+#EXTINF:-1,USA | Hallmark
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/343
+#EXTINF:-1,USA | FXX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/337
+#EXTINF:-1,USA | FX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/335
+#EXTINF:-1,USA | Food Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/324
+#EXTINF:-1,USA | Yes Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/420
+#EXTINF:-1,USA | Fox Sports 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/330
+#EXTINF:-1,USA | American Horrors
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/793
+#EXTINF:-1,Philadelphia 76ers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/804
+#EXTINF:-1,New York Knicks
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/805
+#EXTINF:-1,Washington Wizards
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/806
+#EXTINF:-1,San Antonio Spurs
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/807
+#EXTINF:-1,Atlanta Hawks
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/808
+#EXTINF:-1,Milwaukee Bucks
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/809
+#EXTINF:-1,Charlotte Hornets
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/810
+#EXTINF:-1,Brooklyn Nets
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/811
+#EXTINF:-1,Miami Heat
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/812
+#EXTINF:-1,Cleveland Cavaliers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/813
+#EXTINF:-1,Orlando Magic
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/814
+#EXTINF:-1,Golden State Warriors
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/815
+#EXTINF:-1,Chicago Bulls
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/816
+#EXTINF:-1,Detroit Pistons
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/817
+#EXTINF:-1,Minnesota Timberwolves
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/818
+#EXTINF:-1,Houston Rockets
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/819
+#EXTINF:-1,Los Angeles Clippers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/820
+#EXTINF:-1,Boston Celtics
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/821
+#EXTINF:-1,Azteca 7 FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/822
+#EXTINF:-1,BITME FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/824
+#EXTINF:-1,Canal De Las Estrellas FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/825
+#EXTINF:-1,NBCSN Philadelphia Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/963
+#EXTINF:-1,FOX Philadelphia
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/964
+#EXTINF:-1,NBCSN Chicago Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/965
+#EXTINF:-1,USA | Telemundo Boston
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/966
+#EXTINF:-1,FOX BAY AREA
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/967
+#EXTINF:-1,CBS Austin
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/968
+#EXTINF:-1,CBS Boston
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/969
+#EXTINF:-1,CBS Dallas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/970
+#EXTINF:-1,PR | Telemundo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/972
+#EXTINF:-1,COZI
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/974
+#EXTINF:-1,FOX Atlanta
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/975
+#EXTINF:-1,Univision PR
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/989
+#EXTINF:-1,Wapa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/990
+#EXTINF:-1,WWE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/991
+#EXTINF:-1,USA | UFC Fight Pass
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/410
+#EXTINF:-1,Sacramento Kings
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/1389
+#EXTINF:-1,Oklahoma City Thunder
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/1579
+#EXTINF:-1,Phoenix Suns
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2525
+#EXTINF:-1,Indiana Pacers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2526
+#EXTINF:-1,Portland Trail Blazers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2527
+#EXTINF:-1,Memphis Grizzlies
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2528
+#EXTINF:-1,New Orleans Pelicans
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2529
