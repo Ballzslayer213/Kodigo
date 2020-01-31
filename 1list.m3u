@@ -1,165 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="***** LATINO *****" tvg-logo="" group-title="LATINO",***** LATINO *****
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: A&E FHD" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15924" group-title="LATINO",LATINO: A&E FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15924.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: AXN HD" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15926" group-title="LATINO",LATINO: AXN HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15926.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: AZTECA 13 (MX)" tvg-logo="" group-title="LATINO",LATINO: AZTECA 13 (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25315.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Azteca Mundo FHD" tvg-logo="" group-title="LATINO",LATINO: Azteca Mundo FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25316.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Animal Planet" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15925" group-title="LATINO",LATINO: Animal Planet
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15925.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Az Corazon FHD" tvg-logo="" group-title="LATINO",LATINO: Az Corazon FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15927.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: CANAL 5 HD (HN)" tvg-logo="" group-title="LATINO",LATINO: CANAL 5 HD (HN)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25314.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: CARACOL" tvg-logo="" group-title="LATINO",LATINO: CARACOL
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15958.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Canal De Las Estrellas HD" tvg-logo="" group-title="LATINO",LATINO: Canal De Las Estrellas HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15930.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Carton Network FHD" tvg-logo="" group-title="LATINO",LATINO: Carton Network FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15931.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Cine Canal FHD" tvg-logo="" group-title="LATINO",LATINO: Cine Canal FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15932.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Comedy Central FHD" tvg-logo="" group-title="LATINO",LATINO: Comedy Central FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15933.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="LATINO",LATINO: DISCOVERY CHANNEL FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25313.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: DISCOVERY H&H FHD" tvg-logo="" group-title="LATINO",LATINO: DISCOVERY H&H FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25311.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: DISTRITO COMEDIA HD (MX)" tvg-logo="" group-title="LATINO",LATINO: DISTRITO COMEDIA HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25310.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: De Pelicula (MX)" tvg-logo="" group-title="LATINO",LATINO: De Pelicula (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15934.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Discovery Channel (MX)" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15935" group-title="LATINO",LATINO: Discovery Channel (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15935.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Discovery Civilization" tvg-logo="" group-title="LATINO",LATINO: Discovery Civilization
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15936.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Investigation Discovery FHD" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15937" group-title="LATINO",LATINO: Investigation Discovery FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15937.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Discovery Kids" tvg-logo="" group-title="LATINO",LATINO: Discovery Kids
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15938.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Discovery Science" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15939" group-title="LATINO",LATINO: Discovery Science
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15939.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TLC FHD" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15941" group-title="LATINO",LATINO: TLC FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15941.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Discovery Teather FHD" tvg-logo="" group-title="LATINO",LATINO: Discovery Teather FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15940.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Discovery Turbo" tvg-logo="" group-title="LATINO",LATINO: Discovery Turbo
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15942.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Discovey World FHD" tvg-logo="" group-title="LATINO",LATINO: Discovey World FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15943.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: EL GOURMET FHD" tvg-logo="" group-title="LATINO",LATINO: EL GOURMET FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15915.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: ESPN 2 Sur FHD" tvg-logo="" group-title="LATINO",LATINO: ESPN 2 Sur FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15945.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: ESPN 3 Sur FHD" tvg-logo="" group-title="LATINO",LATINO: ESPN 3 Sur FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15946.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: ESPN HD (CO)" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15944" group-title="LATINO",LATINO: ESPN HD (CO)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15944.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: ESPN U HD (MX)" tvg-logo="" group-title="LATINO",LATINO: ESPN U HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25309.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: FILM & ART HD (MX)" tvg-logo="" group-title="LATINO",LATINO: FILM & ART HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15919.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: FORO TV (MX)" tvg-logo="" group-title="LATINO",LATINO: FORO TV (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25305.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: FOX ACTION FHD (MX)" tvg-logo="" group-title="LATINO",LATINO: FOX ACTION FHD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25308.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: FOX  HD (MX)" tvg-logo="" group-title="LATINO",LATINO: FOX  HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25306.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: FOX SERIES FHD" tvg-logo="" group-title="LATINO",LATINO: FOX SERIES FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25307.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: FXM" tvg-logo="" group-title="LATINO",LATINO: FXM
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25304.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Film Zone HD" tvg-logo="" group-title="LATINO",LATINO: Film Zone HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15948.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Fox Action FHD" tvg-logo="" group-title="LATINO",LATINO: Fox Action FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15950.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Fox Cinema FHD" tvg-logo="" group-title="LATINO",LATINO: Fox Cinema FHD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15951.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Fox HD (MX)" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15952" group-title="LATINO",LATINO: Fox HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15952.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Fox Movies HD" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15953" group-title="LATINO",LATINO: Fox Movies HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15953.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Fox Sports" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15954" group-title="LATINO",LATINO: Fox Sports
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15954.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Fox Sports 2 HD" tvg-logo="" group-title="LATINO",LATINO: Fox Sports 2 HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15955.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: GOLDEN EDGE HD (MX)" tvg-logo="" group-title="LATINO",LATINO: GOLDEN EDGE HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25303.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Gala Tv HD" tvg-logo="" group-title="LATINO",LATINO: Gala Tv HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15956.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Glitz (CO)" tvg-logo="" group-title="LATINO",LATINO: Glitz (CO)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15957.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Golden Edge (MX)" tvg-logo="" group-title="LATINO",LATINO: Golden Edge (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15959.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Golden HD (MX)" tvg-logo="" group-title="LATINO",LATINO: Golden HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15960.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: HOLA TV HD (MX)" tvg-logo="" group-title="LATINO",LATINO: HOLA TV HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15963.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: History HD (MX)" tvg-logo="" group-title="LATINO",LATINO: History HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15962.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: I CLASSIC HD  (MX)" tvg-logo="" group-title="LATINO",LATINO: I CLASSIC HD  (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25302.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: MEXIQUICE (MX)" tvg-logo="" group-title="LATINO",LATINO: MEXIQUICE (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25300.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: MULTIMEDIOS HD (MX)" tvg-logo="" group-title="LATINO",LATINO: MULTIMEDIOS HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25301.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Multimedios Monterrey HD" tvg-logo="" group-title="LATINO",LATINO: Multimedios Monterrey HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15965.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: NICK 2 HD (MX)" tvg-logo="" group-title="LATINO",LATINO: NICK 2 HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25299.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: NICK HD (MX)" tvg-logo="" group-title="LATINO",LATINO: NICK HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25298.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: NICKTOONS (MX)" tvg-logo="" group-title="LATINO",LATINO: NICKTOONS (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25297.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: NatGeo Wild HD" tvg-logo="" group-title="LATINO",LATINO: NatGeo Wild HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15966.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: RCN HD (CO)" tvg-logo="" group-title="LATINO",LATINO: RCN HD (CO)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15928.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: RCN NOVELAS (CO)" tvg-logo="" group-title="LATINO",LATINO: RCN NOVELAS (CO)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15923.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Space HD" tvg-logo="" group-title="LATINO",LATINO: Space HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15967.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TNT SERIES" tvg-logo="" group-title="LATINO",LATINO: TNT SERIES
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/25296.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TNT Series HD" tvg-logo="http://tv.sigma-net.co:6500/image/chn?id=15970" group-title="LATINO",LATINO: TNT Series HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15970.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Telemundo" tvg-logo="" group-title="LATINO",LATINO: Telemundo
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15969.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Telemundo Puerto Rico" tvg-logo="" group-title="LATINO",LATINO: Telemundo Puerto Rico
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/19038.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Tru Tv HD (MX)" tvg-logo="" group-title="LATINO",LATINO: Tru Tv HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15971.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Unicable" tvg-logo="" group-title="LATINO",LATINO: Unicable
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15972.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Universal Channel" tvg-logo="" group-title="LATINO",LATINO: Universal Channel
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15973.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Univision TDN" tvg-logo="" group-title="LATINO",LATINO: Univision TDN
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15968.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Warner HD" tvg-logo="" group-title="LATINO",LATINO: Warner HD
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15974.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Win Sport" tvg-logo="" group-title="LATINO",LATINO: Win Sport
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15922.ts
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: Win Sports" tvg-logo="" group-title="LATINO",LATINO: Win Sports
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/15975.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: Golden Plus HD (MX)" tvg-logo="" group-title="LATINO",Latino: Golden Plus HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/7633.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino:  MULTIMEDIOS HD (MX" tvg-logo="" group-title="LATINO",Latino:  MULTIMEDIOS HD (MX
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/11719.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: PARAMOUNT" tvg-logo="" group-title="LATINO",Latino: PARAMOUNT
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/7622.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: CINE SONY" tvg-logo="" group-title="LATINO",Latino: CINE SONY
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/7631.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: STUDIO UNIVERSAL" tvg-logo="" group-title="LATINO",Latino: STUDIO UNIVERSAL
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/7628.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: SYFY HD (MX)" tvg-logo="" group-title="LATINO",Latino: SYFY HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/11721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: TNT HD (MX)" tvg-logo="" group-title="LATINO",Latino: TNT HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/11720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: TV MAS" tvg-logo="" group-title="LATINO",Latino: TV MAS
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/7632.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino: WOBI HD (MX)" tvg-logo="" group-title="LATINO",Latino: WOBI HD (MX)
-http://tv.sigma-net.co:6500/live/ZXg8buP0kJSAQ5e/564199/7634.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Familia" tvg-logo="" group-title="Mexico",MX: Ultra Familia
+http://king-tv.net:8080/dasagolda/d3854/156027
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra banda" tvg-logo="" group-title="Mexico",MX: Ultra banda
+http://king-tv.net:8080/dasagolda/d3854/156028
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra tainment" tvg-logo="" group-title="Mexico",MX: Ultra tainment
+http://king-tv.net:8080/dasagolda/d3854/156029
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Mex" tvg-logo="" group-title="Mexico",MX: Ultra Mex
+http://king-tv.net:8080/dasagolda/d3854/156030
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Macho" tvg-logo="" group-title="Mexico",MX: Ultra Macho
+http://king-tv.net:8080/dasagolda/d3854/156031
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Luna" tvg-logo="" group-title="Mexico",MX: Ultra Luna
+http://king-tv.net:8080/dasagolda/d3854/156032
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Film" tvg-logo="" group-title="Mexico",MX: Ultra Film
+http://king-tv.net:8080/dasagolda/d3854/156033
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Fiesta" tvg-logo="" group-title="Mexico",MX: Ultra Fiesta
+http://king-tv.net:8080/dasagolda/d3854/156034
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Docu" tvg-logo="" group-title="Mexico",MX: Ultra Docu
+http://king-tv.net:8080/dasagolda/d3854/156035
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Clasico" tvg-logo="" group-title="Mexico",MX: Ultra Clasico
+http://king-tv.net:8080/dasagolda/d3854/156036
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Cine" tvg-logo="" group-title="Mexico",MX: Ultra Cine
+http://king-tv.net:8080/dasagolda/d3854/156037
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Kidz" tvg-logo="" group-title="Mexico",MX: Ultra Kidz
+http://king-tv.net:8080/dasagolda/d3854/156038
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Cinemax FHD" tvg-logo="" group-title="DishLATINO",LAT: Cinemax FHD
+http://king-tv.net:8080/dasagolda/d3854/156039
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO East FHD" tvg-logo="" group-title="DishLATINO",LAT: HBO East FHD
+http://king-tv.net:8080/dasagolda/d3854/156040
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO Family FHD" tvg-logo="" group-title="DishLATINO",LAT: HBO Family FHD
+http://king-tv.net:8080/dasagolda/d3854/156041
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO Plus FHD" tvg-logo="" group-title="DishLATINO",LAT: HBO Plus FHD
+http://king-tv.net:8080/dasagolda/d3854/156042
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HBO Plus West FHD" tvg-logo="" group-title="DishLATINO",LAT: HBO Plus West FHD
+http://king-tv.net:8080/dasagolda/d3854/156043
+#EXTINF:-1 tvg-id="" tvg-name="LAT: ndiePlex FHD" tvg-logo="" group-title="DishLATINO",LAT: ndiePlex FHD
+http://king-tv.net:8080/dasagolda/d3854/156044
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MoreMax FHD" tvg-logo="" group-title="DishLATINO",LAT: MoreMax FHD
+http://king-tv.net:8080/dasagolda/d3854/156045
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MovieMax FHD" tvg-logo="" group-title="DishLATINO",LAT: MovieMax FHD
+http://king-tv.net:8080/dasagolda/d3854/156046
+#EXTINF:-1 tvg-id="" tvg-name="LAT: MoviePlex FHD" tvg-logo="" group-title="DishLATINO",LAT: MoviePlex FHD
+http://king-tv.net:8080/dasagolda/d3854/156047
+#EXTINF:-1 tvg-id="" tvg-name="LAT: OuterMax FHD" tvg-logo="" group-title="DishLATINO",LAT: OuterMax FHD
+http://king-tv.net:8080/dasagolda/d3854/156048
+#EXTINF:-1 tvg-id="" tvg-name="LAT: RetroPlex FHD" tvg-logo="" group-title="DishLATINO",LAT: RetroPlex FHD
+http://king-tv.net:8080/dasagolda/d3854/156049
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Showtime Beyond FHD" tvg-logo="" group-title="DishLATINO",LAT: Showtime Beyond FHD
+http://king-tv.net:8080/dasagolda/d3854/156050
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Showtime East FHD" tvg-logo="" group-title="DishLATINO",LAT: Showtime East FHD
+http://king-tv.net:8080/dasagolda/d3854/156051
+#EXTINF:-1 tvg-id="" tvg-name="LAT: SHOWTIME FHD" tvg-logo="" group-title="DishLATINO",LAT: SHOWTIME FHD
+http://king-tv.net:8080/dasagolda/d3854/156052
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Showtime FHD" tvg-logo="" group-title="DishLATINO",LAT: Showtime FHD
+http://king-tv.net:8080/dasagolda/d3854/156053
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Showtime West FHD" tvg-logo="" group-title="DishLATINO",LAT: Showtime West FHD
+http://king-tv.net:8080/dasagolda/d3854/156054
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Black FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Black FHD
+http://king-tv.net:8080/dasagolda/d3854/156055
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Cinema FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Cinema FHD
+http://king-tv.net:8080/dasagolda/d3854/156056
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Comedy FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Comedy FHD
+http://king-tv.net:8080/dasagolda/d3854/156057
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Comedy FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Comedy FHD
+http://king-tv.net:8080/dasagolda/d3854/156058
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz East FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz East FHD
+http://king-tv.net:8080/dasagolda/d3854/156059
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Edge FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Edge FHD
+http://king-tv.net:8080/dasagolda/d3854/156060
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Encore Action FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Encore Action FHD
+http://king-tv.net:8080/dasagolda/d3854/156061
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Encore Black FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Encore Black FHD
+http://king-tv.net:8080/dasagolda/d3854/156062
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Encore Classic FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Encore Classic FHD
+http://king-tv.net:8080/dasagolda/d3854/156063
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Encore Family FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Encore Family FHD
+http://king-tv.net:8080/dasagolda/d3854/156064
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Encore FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Encore FHD
+http://king-tv.net:8080/dasagolda/d3854/156065
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Encore Suspense FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Encore Suspense FHD
+http://king-tv.net:8080/dasagolda/d3854/156066
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Encore Western FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Encore Western FHD
+http://king-tv.net:8080/dasagolda/d3854/156067
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz Family FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz Family FHD
+http://king-tv.net:8080/dasagolda/d3854/156068
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz FHD
+http://king-tv.net:8080/dasagolda/d3854/156069
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Starz West FHD" tvg-logo="" group-title="DishLATINO",LAT: Starz West FHD
+http://king-tv.net:8080/dasagolda/d3854/156070
