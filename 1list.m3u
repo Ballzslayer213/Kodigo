@@ -19,3 +19,8 @@ http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/30988.ts
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://img2.freepng.es/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg" group-title="Cine y Series",AXN SD
 http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1311
+#EXTINF:-1 tvg-id="XHTV Canal 4" tvg-name="Canal 4" tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png" group-title="Cine y Series",ForoTV SD
+http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1503
+#EXTINF:-1 tvg-id="XHTV Canal 4" tvg-name="Canal 4" tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png" group-title="Cine y Series",ForoTV SD
+#EXTVLCOPT:http-user-agent=coronavirus
+https://micine.club/150/micine.m3u8
