@@ -1,25 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E Mundo" tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="Cine y Series",A&E HD 
+#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine y Series",A&E HD 
 http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=1.m3u8
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E Mundo" tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="Cine y Series",A&E SD 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=1.m3u8
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E Mundo" tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="Cine y Series",A&E LD
+#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine y Series",A&E SD 
 http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=1.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://tvlince.com/logos/animalplanet4k.png" group-title="Cultura",ANIMAL PLANET HD
 http://lince.xyz:80/qx9rksi4/qx9rksi4/14
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://tvlince.com/logos/animalplanet4k.png" group-title="Cultura",ANIMAL PLANET SD
 http://lince.xyz:80/qx9rksi4/qx9rksi4/14
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://tvlince.com/logos/animalplanet4k.png" group-title="Cultura",ANIMAL PLANET LD
-http://lince.xyz:80/qx9rksi4/qx9rksi4/14
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Noticias",Antena 3 HD
 http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1310
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Noticias",Antena 3 SD
 http://surf.no-ip.biz:8000/live/cYZHzB2mlz/gtRlOpTq7X/384.ts
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Noticias",Antena 3 LD
-http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/30965.ts
 #EXTINF:-1 tvg-id="XHGC-C5" tvg-name="XHGC-C5" tvg-logo="https://img2.freepng.es/20180523/tbv/kisspng-televisa-xhgc-tdt-altzomoni-canal-5-television-cha-midnight-5b050329320d65.068465731527055145205.jpg" group-title="Cine y Series",Canal 5 HD
 http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1543
 #EXTINF:-1 tvg-id="XHGC-C5" tvg-name="XHGC-C5" tvg-logo="https://img2.freepng.es/20180523/tbv/kisspng-televisa-xhgc-tdt-altzomoni-canal-5-television-cha-midnight-5b050329320d65.068465731527055145205.jpg" group-title="Cine y Series",Canal 5 SD
 http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/30988.ts
-#EXTINF:-1 tvg-id="XHGC-C5" tvg-name="XHGC-C5" tvg-logo="https://img2.freepng.es/20180523/tbv/kisspng-televisa-xhgc-tdt-altzomoni-canal-5-television-cha-midnight-5b050329320d65.068465731527055145205.jpg" group-title="Cine y Series",Canal 5 LD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=2038&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://img2.freepng.es/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg" group-title="Cine y Series",AXN HD
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://img2.freepng.es/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg" group-title="Cine y Series",AXN SD
+http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1311
