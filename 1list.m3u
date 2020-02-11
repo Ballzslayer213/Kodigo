@@ -1,36 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine y Series",A&E HD 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=1.m3u8
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine y Series",A&E SD 
-http://ss2.mxl-iptv.services:2052/cdn/stream.m3u8?username=tapia&pass=tapia123&id=1.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://tvlince.com/logos/animalplanet4k.png" group-title="Cultura",ANIMAL PLANET HD
-http://lince.xyz:80/qx9rksi4/qx9rksi4/14
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://tvlince.com/logos/animalplanet4k.png" group-title="Cultura",ANIMAL PLANET SD
-http://lince.xyz:80/qx9rksi4/qx9rksi4/14
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Noticias",Antena 3 HD
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1310
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Noticias",Antena 3 SD
-http://surf.no-ip.biz:8000/live/cYZHzB2mlz/gtRlOpTq7X/384.ts
-#EXTINF:-1 tvg-id="XHGC-C5" tvg-name="XHGC-C5" tvg-logo="https://img2.freepng.es/20180523/tbv/kisspng-televisa-xhgc-tdt-altzomoni-canal-5-television-cha-midnight-5b050329320d65.068465731527055145205.jpg" group-title="Cine y Series",Canal 5 HD
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1543
-#EXTINF:-1 tvg-id="XHGC-C5" tvg-name="XHGC-C5" tvg-logo="https://img2.freepng.es/20180523/tbv/kisspng-televisa-xhgc-tdt-altzomoni-canal-5-television-cha-midnight-5b050329320d65.068465731527055145205.jpg" group-title="Cine y Series",Canal 5 SD
-http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/30988.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://img2.freepng.es/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg" group-title="Cine y Series",AXN HD
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://img2.freepng.es/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg" group-title="Cine y Series",AXN SD
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1311
-#EXTINF:-1 tvg-id="XHTV Canal 4" tvg-name="Canal 4" tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png" group-title="Cine y Series",ForoTV SD
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1503
-#EXTINF:-1 tvg-id="XHTV Canal 4" tvg-name="Canal 4" tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png" group-title="Cine y Series",ForoTV SD
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
-#EXTINF:-1 tvg-id="Azteca 13" tvg-name="Azteca 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AZSINCOPY.png" group-title="Cine y Series",Azteca 13 HD
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1318
-#EXTINF:-1 tvg-id="Azteca 13" tvg-name="Azteca 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AZSINCOPY.png" group-title="Cine y Series",Azteca 13 SD
-https://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="Cine y Series",Azteca 7 HD
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1318
+#EXTINF:-1 tvg-ID="	aztecanoticias.mx" tvg-name="Azteca Noticias" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5157jeJPceL.png" group-title="Cine y Series",Azteca Noticias HD 
+#EXTINF:-1 tvg-ID="	aztecanoticias.mx" tvg-name="Azteca Noticias" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/5157jeJPceL.png" group-title="Cine y Series",Azteca Noticias SD 
+#EXTINF:-1 tvg-ID="	22nacional.mx" tvg-name="22 Nacional" tvg-logo="https://static.iptv-epg.com/mx/22Nacional.mx.png" group-title="Cine y Series",22 Nacional HD 
+#EXTINF:-1 tvg-ID="	22nacional.mx" tvg-name="22 Nacional" tvg-logo="https://static.iptv-epg.com/mx/22Nacional.mx.png" group-title="Cine y Series",22 Nacional SD 
+#EXTINF:-1 tvg-id="	5nacional.mx" tvg-name="XHGC-C5" tvg-logo="https://img2.freepng.es/20180523/tbv/kisspng-televisa-xhgc-tdt-altzomoni-canal-5-television-cha-midnight-5b050329320d65.068465731527055145205.jpg" group-title="Cine y Series",Canal 5 HD
+#EXTINF:-1 tvg-id="	5nacional.mx" tvg-name="XHGC-C5" tvg-logo="https://img2.freepng.es/20180523/tbv/kisspng-televisa-xhgc-tdt-altzomoni-canal-5-television-cha-midnight-5b050329320d65.068465731527055145205.jpg" group-title="Cine y Series",Canal 5 SD
+#EXTINF:-1 tvg-ID="AandE.mx" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine y Series",A&E HD 
+#EXTINF:-1 tvg-ID="AandE.mx" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine y Series",A&E SD 
+#EXTINF:-1 tvg-ID="ADN40.mx" tvg-name="ADN40" tvg-logo="https://mexico.mom-rsf.org/uploads/tx_lfrogmom/media/11518-1329_import.png" group-title="Cine y Series",ADN 40 HD 
+#EXTINF:-1 tvg-ID="ADN40.mx" tvg-name="ADN40" tvg-logo="https://mexico.mom-rsf.org/uploads/tx_lfrogmom/media/11518-1329_import.png" group-title="Cine y Series",ADN 40 SD
+#EXTINF:-1 tvg-ID="AgroTV.mx" tvg-name="Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Agro_TV_logo.png" group-title="Cine y Series",Agro TV HD
+#EXTINF:-1 tvg-ID="AgroTV.mx" tvg-name="Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Agro_TV_logo.png" group-title="Cine y Series",Agro TV SD
+#EXTINF:-1 tvg-ID="Amastv.mx" tvg-name="Amas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="Cine y Series",Amas TV HD
+#EXTINF:-1 tvg-ID="Amastv.mx" tvg-name="Amas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="Cine y Series",Amas TV SD
+#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC" tvg-logo="https://p7.hiclipart.com/preview/852/748/896/amc-logo-television-show-graphic-design-amc.jpg" group-title="Cine y Series",AMC HD
+#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC" tvg-logo="https://p7.hiclipart.com/preview/852/748/896/amc-logo-television-show-graphic-design-amc.jpg" group-title="Cine y Series",AMC SD
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://tvlince.com/logos/animalplanet4k.png" group-title="Cultura",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://tvlince.com/logos/animalplanet4k.png" group-title="Cultura",ANIMAL PLANET SD
+#EXTINF:-1 tvg-id="Antena3.mx" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Noticias",Antena 3 HD
+#EXTINF:-1 tvg-id="Antena3.mx" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Noticias",Antena 3 SD
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://img2.freepng.es/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg" group-title="Cine y Series",AXN HD
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://img2.freepng.es/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg" group-title="Cine y Series",AXN SD
+#EXTINF:-1 tvg-id="AymSports.mx" tvg-name="AymSports" tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png" group-title="Cine y Series",Aym Sports HD
+#EXTINF:-1 tvg-id="AymSports.mx" tvg-name="AymSports" tvg-logo="https://vignette.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png" group-title="Cine y Series",Aym Sports SD
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="AZCinema" tvg-logo="https://sc.dish.com/shared/images/station-logos/AZCIN.png" group-title="Cine y Series",AZ Cinema HD
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="AZCinema" tvg-logo="https://sc.dish.com/shared/images/station-logos/AZCIN.png" group-title="Cine y Series",AZ Cinema SD
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZClic" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Az_Clic_2017.png" group-title="Cine y Series",AZ Clic HD
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZClic" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Az_Clic_2017.png" group-title="Cine y Series",AZ Clic SD
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AzCorazon" tvg-logo="https://sc.dish.com/shared/images/station-logos/AZCOR.png" group-title="Cine y Series",Az Corazon HD
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AzCorazon" tvg-logo="https://sc.dish.com/shared/images/station-logos/AZCOR.png" group-title="Cine y Series",Az Corazon SD
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="AZMundo" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/144-AZ-Mundo-01.jpg" group-title="Cine y Series",AZ Mundo HD
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="AZMundo" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/144-AZ-Mundo-01.jpg" group-title="Cine y Series",AZ Mundo SD
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AZSINCOPY.png" group-title="Cine y Series",Azteca 13 HD
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AZSINCOPY.png" group-title="Cine y Series",Azteca 13 SD
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca7" tvg-logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="Cine y Series",Azteca 7 HD
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca7" tvg-logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="Cine y Series",Azteca 7 SD
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" group-title="Cine y Series",Azteca Uno HD
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" group-title="Cine y Series",Azteca Uno SD
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Cine y Series",Baby TV HD
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Cine y Series",Baby TV SD
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="Bandamax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png" group-title="Cine y Series",Bandamax HD
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="Bandamax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png" group-title="Cine y Series",Bandamax SD
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="BloombergTV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bloomberg-television-logo-png-transparent.png" group-title="Cine y Series",Bloomberg HD
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="BloombergTV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bloomberg-television-logo-png-transparent.png" group-title="Cine y Series",Bloomberg SD
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="BloombergTV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bloomberg-television-logo-png-transparent.png" group-title="Cine y Series",Boomerang HD
+#EXTINF:-1 tvg-id="XHTVCanal4.mx" tvg-name="Canal 4" tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png" group-title="Cine y Series",ForoTV SD
+#EXTINF:-1 tvg-id="XHTVCanal4.mx" tvg-name="Canal 4" tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png" group-title="Cine y Series",ForoTV SD
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Cine y Series",Discovery Kids HD
-http://qtvplay.xyz:8080/DUB5rEgSzyjdChMSfzrq/fED87ZzlUJ/3530
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Cine y Series",Discovery Kids HD
-http://qtvplay.xyz:8080/DUB5rEgSzyjdChMSfzrq/fED87ZzlUJ/3530
-
