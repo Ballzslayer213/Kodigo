@@ -92,4 +92,15 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DisneyChannel" tvg-logo="https://p1.hiclipart.com/preview/732/728/931/tv-channel-icons-disney-channel-black-mirror-disney-channel-logo-png-clipart.jpg" group-title="Cine y Series",Disney Channel HD
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DisneyChannel" tvg-logo="https://p1.hiclipart.com/preview/732/728/931/tv-channel-icons-disney-channel-black-mirror-disney-channel-logo-png-clipart.jpg" group-title="Cine y Series",Disney Channel HD
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DisneyJunior" tvg-logo="https://i.dlpng.com/static/png/6476862_preview.png" group-title="Cine y Series",Disney Junior HD
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DisneyJunior" tvg-logo="https://i.dlpng.com/static/png/6476862_preview.png" group-title="Cine y Series",Disney Junior SD
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Cine y Series",Disney XD HD
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Cine y Series",Disney XD SD
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Cine y Series",Distrito Comedia HD
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Cine y Series",Distrito Comedia SD
+#EXTINF:-1 tvg-id="E!EntertainmentTelevision.mx" tvg-name="E!EntertainmentTelevision" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/78070-entertainment.gif" group-title="Cine y Series",E! Entertainment Television HD
+#EXTINF:-1 tvg-id="E!EntertainmentTelevision.mx" tvg-name="E!EntertainmentTelevision" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/78070-entertainment.gif" group-title="Cine y Series",E! Entertainment Television SD
+#EXTINF:-1 tvg-id="EfektoTVNoticias.mx" tvg-name="EfektoTVNoticias" tvg-logo="https://www.efekto.tv/wp-content/themes/Efekto/assets/imagenes/logos/periodicos/EfektoTV.png" group-title="Cine y Series",Efekto TV Noticias HD
+#EXTINF:-1 tvg-id="EfektoTVNoticias.mx" tvg-name="EfektoTVNoticias" tvg-logo="https://www.efekto.tv/wp-content/themes/Efekto/assets/imagenes/logos/periodicos/EfektoTV.png" group-title="Cine y Series",Efekto TV Noticias SD
+#EXTINF:-1 tvg-id="EfektoTVNoticias.mx" tvg-name="EfektoTVNoticias" tvg-logo="https://www.efekto.tv/wp-content/themes/Efekto/assets/imagenes/logos/periodicos/EfektoTV.png" group-title="Cine y Series",Efekto TV Noticias HD
+
 
