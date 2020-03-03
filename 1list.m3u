@@ -117,4 +117,32 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="EuropaEuropa" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/052/original/pic_europa.png" group-title="Cine y Series",Europa Europa SD
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="ExcelsiorTV" tvg-logo="https://cdn.mitvstatic.com/channels/excelsior-m.png" group-title="Cine y Series",Excélsior TV HD
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="ExcelsiorTV" tvg-logo="https://cdn.mitvstatic.com/channels/excelsior-m.png" group-title="Cine y Series",Excélsior TV SD
-#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="ExcelsiorTV" tvg-logo="https://cdn.mitvstatic.com/channels/excelsior-m.png" group-title="Cine y Series",Excélsior TV HD
+#EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name="Film&Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="",Film & Arts HD
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="ForoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="",Foro TV HD
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox" tvg-logo="https://img2.freepng.es/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg" group-title="",Fox HD
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FoxAction" tvg-logo="https://comohow.net/wp-content/uploads/2019/03/como-ver-FOX-Action-gratis.png" group-title="",Fox Action HD
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="FoxCinema" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023530951/FOX_Cinema_HD.png" group-title="",Fox Cinéma HD
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="FoxClassics" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png" group-title="",Fox Classics HD
+#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-name="FoxComedy" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png" group-title="",Fox Comedy HD
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="FoxFamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="",Fox Family HD
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FoxLife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="",Fox Life HD
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FoxMovies" tvg-logo="https://img2.freepng.es/20180420/zwe/kisspng-fox-movies-television-channel-star-movies-logo-vector-fox-5ad9ec2d245788.4291072515242312131489.jpg" group-title="",Fox Movies HD
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="FoxSeries" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png" group-title="",Fox Series HD
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FoxSports" tvg-logo="https://i0.pngocean.com/files/733/259/791/fox-sports-1-fox-sports-2-fox-sports-networks-fox-material.jpg" group-title="",Fox Sports HD
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FoxSports2" tvg-logo="https://img2.freepng.es/20180618/ww/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22b1f711.230795081529351202729.jpg" group-title="",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FoxSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="",Fox Sports 3 HD
+#EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/640px-FX_Movies_logo.svg.png" group-title="",FX Movies HD
+#EXTINF:-1 tvg-id="GalaTV.mx" tvg-name="GalaTV" tvg-logo="https://img2.freepng.es/20180426/hoe/kisspng-televisa-gala-tv-television-channel-xeq-tdt-5ae1661b8b5cb9.7709153315247211795708.jpg" group-title="",Gala TV HD
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="",Glitz HD
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="",Golden HD
+#EXTINF:-1 tvg-id="Golden Edge.mx" tvg-name="GoldenEdge" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cf/2qwqV7S.png" group-title="",Golden Edge HD
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="GoldenPlus" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="",Golden Plus HD
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="GoldenPremier2" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="",Golden Premier 2 HD
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="GolfChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="",Golf Channel HD
+#EXTINF:-1 tvg-id="GrandShopping.mx" tvg-name="GrandShopping" tvg-logo="https://cdn150.picsart.com/upscale-279417654010211.png" group-title="",Grand Shopping HD
+#EXTINF:-1 tvg-id="GrandShopping.mx" tvg-name="GrandShopping" tvg-logo="https://cdn150.picsart.com/upscale-279417654010211.png" group-title="",Grand Shopping HD
+
+
+
+
+
