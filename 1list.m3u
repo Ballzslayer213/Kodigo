@@ -74,7 +74,9 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 tvg-id="CineSony.mx" tvg-name="CineSony" tvg-logo="https://d3qrpy1u8tk44h.cloudfront.net/wp-content/uploads/2017/07/sony_cine_color.png" group-title="Cine y Series",Cine Sony HD
 #EXTINF:-1 tvg-id="CineSony.mx" tvg-name="CineSony" tvg-logo="https://d3qrpy1u8tk44h.cloudfront.net/wp-content/uploads/2017/07/sony_cine_color.png" group-title="Cine y Series",Cine Sony SD
 #EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="comedycentral" tvg-logo="https://i7.pngguru.com/preview/362/208/925/just-for-laughs-comedy-festival-comedy-central-comedian-film-comedy.jpg" group-title="Cine y Series",Comedy Central HD
+http://62.210.139.229:25461/G3V71/89741/79
 #EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="comedycentral" tvg-logo="https://i7.pngguru.com/preview/362/208/925/just-for-laughs-comedy-festival-comedy-central-comedian-film-comedy.jpg" group-title="Cine y Series",Comedy Central SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/460.ts
 #EXTINF:-1 tvg-id="depelicula.mx" tvg-name="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",De Pelicula HD
 #EXTINF:-1 tvg-id="depelicula.mx" tvg-name="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",De Pelicula SD
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DiscoveryChannel" tvg-logo="https://p7.hiclipart.com/preview/253/281/158/discovery-channel-logo-television-channel-discovery-inc-investigation.jpg",Discovery Channel HD
@@ -84,7 +86,9 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="discoveryhomeandhealth" tvg-logo="https://p7.hiclipart.com/preview/181/877/285/discovery-home-health-discovery-channel-discovery-inc-television-discovery-hd-discovery-travel-living.jpg",Discovery Home & Health HD
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="discoveryhomeandhealth" tvg-logo="https://p7.hiclipart.com/preview/181/877/285/discovery-home-health-discovery-channel-discovery-inc-television-discovery-hd-discovery-travel-living.jpg",Discovery Home & Health SD
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Cine y Series",Discovery Kids HD
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Cine y Series",Discovery Kids HD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/466.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Cine y Series",Discovery Kids SD
+http://62.210.139.229:25461/G3V71/89741/61
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Cine y Series",Discovery Theater HD
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Cine y Series",Discovery Theater SD
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="discoveryworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Cine y Series",Discovery World HD
@@ -96,7 +100,9 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Cine y Series",Disney XD HD
 #EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Cine y Series",Disney XD SD
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Cine y Series",Distrito Comedia HD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/475.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Cine y Series",Distrito Comedia SD
+http://62.210.139.229:25461/G3V71/89741/50
 #EXTINF:-1 tvg-id="E!EntertainmentTelevision.mx" tvg-name="E!EntertainmentTelevision" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/78070-entertainment.gif" group-title="Cine y Series",E! Entertainment Television HD
 #EXTINF:-1 tvg-id="E!EntertainmentTelevision.mx" tvg-name="E!EntertainmentTelevision" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/78070-entertainment.gif" group-title="Cine y Series",E! Entertainment Television SD
 #EXTINF:-1 tvg-id="EfektoTVNoticias.mx" tvg-name="EfektoTVNoticias" tvg-logo="https://www.efekto.tv/wp-content/themes/Efekto/assets/imagenes/logos/periodicos/EfektoTV.png" group-title="Cine y Series",Efekto TV Noticias HD
