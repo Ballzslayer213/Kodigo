@@ -1,113 +1,354 @@
 #EXTM3U
-#EXTINF:0,ADN 40 HD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/432.m3u8
-#EXTINF:0, ADN 40 SD
-http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
-#EXTINF:0, A&E HD
-http://gratis.iptvcanales.com/hls/redirect.php/coin/AE_MUNDO_HD/index.m3u8
-#EXTINF:-1,A&E SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/429.ts
-#EXTINF:0, America
-http://megatv.live:80/get.php?username=JLd5fmkYn8&password=p01Yz9fswb&type=m3u
-#EXTINF:0, America
-http://megatv.live:80/get.php?username=2IQvudHIVa&password=rnNelaAzoV&type=m3u
-#EXTINF:-1,Antena 3
-https://livestartover-i.akamaized.net/antena3/master.m3u8
-#EXTINF:0,AZ CORAZON
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/440.m3u8
-#EXTINF:0,AZMUNDO HD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/441.m3u8
-#EXTINF:0, AZMUNDO SD
-http://gratis.iptvcanales.com/hls/redirect.php/coin/AZMUNDO_HD/index.m3u8
-#EXTINF:0,AZTECA 7
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/442.m3u8
-#EXTINF:0, BOOMERANG
-http://3-120heat.pulsedmedia.com/public-llave1/kr/boomerang/index.m3u8
-#EXTINF:-1,DE LAS ESTRELLAS MX HD
-http://extremo.dyndns.ws:25461/live/lety/lety/4953.ts
-#EXTINF:0,CANAL 5
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/448.m3u8
-#EXTINF:0,A +
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/430.m3u8
-#EXTINF:0,CANAL NUEVE
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/502.m3u8
-#EXTINF:0,CANAL 11
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/451.m3u8
-#EXTINF:0,TV MEXIQUENSE
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/526.m3u8
-#EXTINF:-1,CINECANAL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/454.ts
-#EXTINF:0, CDF Premium
-http://gratis.iptvcanales.com/hls/redirect.php/san_lunes/J04/channel.php/live3/cdf/playlist.m3u8
-#EXTINF:-1,CINELATINO SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/455.ts
-#EXTINF:-1,CINEMAX SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/456.ts
-#EXTINF:-1,CNN EN ESPAÑOL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/457.ts
-#EXTINF:0, COMEDY CENTRAL HD
-http://gratis.iptvcanales.com/hls/redirect.php/coin/COMEDY_CENTRAL_HD/index.m3u8
-#EXTINF:0, DISCOVERY THEATER HD
-http://gratis.iptvcanales.com/hls/redirect.php/coin/DISCOVERY_THEATER_HD/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/463.ts
-#EXTINF:-1 tvg-id="EPG123.74458.XMLTV.CO" tvg-name="ESPN (MX)" tvg-logo="http://89.187.170.146:25461/logos/deportes/espn.jpg" group-title="Deportes",ESPN (MX)
-http://tvcl.xyz:80/lwanwweb/7hkw18V1Tz/1312257
-#EXTINF:-1,DISCOVERY CIVILIZATION SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/464.ts
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/467.ts
-#EXTINF:-1,DISCOVERY TLC SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/469.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD (MX)" tvg-logo="http://tvla.xyz:25461/images/qYl7oipJkDmwjgNVyn7XPq3Zr2yUqvKX.jpg" group-title="Deportes",ESPN FHD (MX)
-http://tvcl.xyz:80/lwanwweb/7hkw18V1Tz/131175
-#EXTINF:-1 tvg-id="" tvg-name="ESPN + FHD (MX)" tvg-logo="http://tvla.xyz:25461/images/hhBpOGZ4LQr5eJmZTis6GfDWI4cXhQlY.jpg" group-title="Deportes",ESPN + FHD (MX)
-http://tvcl.xyz:80/lwanwweb/7hkw18V1Tz/131144
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (MX)" tvg-logo="http://89.187.170.146:25461/logos/deportes/espn2.jpg" group-title="Deportes",ESPN 2 (MX)
-http://tvcl.xyz:80/lwanwweb/7hkw18V1Tz/1312253
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD (MX)" tvg-logo="http://89.187.170.146:25461/logos/deportes/espn2.jpg" group-title="Deportes",ESPN 2 FHD (MX)
-http://tvcl.xyz:80/lwanwweb/7hkw18V1Tz/131174
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (MX)" tvg-logo="http://89.187.170.146:25461/logos/deportes/espn3.jpg" group-title="Deportes",ESPN 3 (MX)
-http://tvcl.xyz:80/lwanwweb/7hkw18V1Tz/1312255
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD (MX)" tvg-logo="http://89.187.170.146:25461/logos/deportes/espn3.jpg" group-title="Deportes",ESPN 3 FHD (MX)
-http://tvcl.xyz:80/lwanwweb/7hkw18V1Tz/131173
-#EXTINF:0, FOX HD
-https://bud122.budtv.tv/liverobos/fox_p3/playlist.m3u8
-#EXTINF:0, Fox SD
-http://s1.latinowebtv.ga:2082/livelwtv/128.m3u8?token=lixOFviz_NGagBVCrNUrBA&expires=1526174716
-#EXTINF:0, FOXSPORTS_2
-http://3-120heat.pulsedmedia.com/public-llave1/kr/f0xsports2/index.m3u8
-#EXTINF:0, FOXSPORTS_MEXICO
-http://3-120heat.pulsedmedia.com/public-llave1/kr/f0xsportsmx/index.m3u8
-#EXTINF:0, futurama hd
-http://167.114.102.156:25461/live/tomasin/tomasin1/6032.ts
-#EXTINF:0,HISTORY 2
-http://23.237.80.58:2999/live/Bud$Tv2801/Web$$20/614_.m3u8
-#EXTINF:0, HBO2
-http://3-120heat.pulsedmedia.com/public-llave1/kr/hb02/index.m3u8
-#EXTINF:0, HBOPLUS
-http://3-120heat.pulsedmedia.com/public-llave1/kr/hb0plus/index.m3u8
-#EXTINF:0, HBO_FAMILY
-http://3-120heat.pulsedmedia.com/public-llave1/kr/hb0fam/index.m3u8
-#EXTINF:0, HBO_HD
-http://3-120heat.pulsedmedia.com/public-llave1/kr/hb0hd/index.m3u8
-#EXTINF:0, mtv_hd
-http://3-120heat.pulsedmedia.com/public-llave1/kr_2/public/mtvhd/index.m3u8
-#EXTINF:-1,NATGEO HD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/534.ts
-#EXTINF:0, NATGEO SD
-http://3-120heat.pulsedmedia.com/public-llave1/kr_2/public/natgeo_mx/index.m3u8
-#EXTINF:-1,NATGEO WILD SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/535.ts
-#EXTINF:0, NICKELODEON HD
-http://gratis.iptvcanales.com/hls/redirect.php/coin/NICKELODEON_HD/index.m3u8
-#EXTINF:0, tlc
-http://3-120heat.pulsedmedia.com/public-llave1/kr_2/public/tlc/index.m3u8
-#EXTINF:0, tnt_series
-http://3-120heat.pulsedmedia.com/public-llave1/kr_2/public/tnt_ser/index.m3u8
-#EXTINF:0, Univision HD
-http://vitty.pro:80/live/DVq1h1IqNQ/CYjlTfp8nD/24480.m3u8
-#EXTINF:0,UNIVISION SD
-http://23.237.80.58:2999/live/Bud$Tv2801/Web$$20/70_.m3u8
-#EXTINF:0,TELEMUNDO
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/358.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="" group-title="Premium",AMC HD
+http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/136|User-Agent=DkLavf/57.36.100	
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="" group-title="Premium",AMC
+http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/136|User-Agent=DkLavf/57.36.100	
+#EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="",Animal Planet
+http://iptv-line.com:6969/parduvudri@ezehe.com/WZcoImyTSh/5203
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="Antena 3" tvg-logo="http://mundovideomx.tv/imagenes/picons/l/antena3.png" group-title="TV Entretenimiento",Antena 3	
+EXTINF:-1 tvg-id="AXNHD.mx" tvg-name="AXN HD" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",AXN HD
+http://158.69.228.135:8000/welch/welch123/125
+EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",AXN
+http://158.69.228.135:8000/welch/welch123/125	
+AyE	AyE.mx	
+AyE HD	AyEHD.mx	
+AyM Sports	AyMSports.mx	
+Az Clic	AzClic.mx	
+Az Corazón	AzCorazon.mx	
+Az Mix	AzMix.mx	
+Az Mundo	AzMundo.mx	
+Azteca 13	Azteca13.mx	
+Azteca 7	Azteca7.mx	
+Bandamax	Bandamax.mx	
+BBC Entertainment	BBCEntertainment.mx	
+BBC HD	BBCHD.mx	
+Bio	Bio.mx	
+Bloomberg	Bloomberg.mx	
+Boomerang	Boomerang.mx	
+Canal 2	Canal2.mx	
+Canal 2 HD	Canal2HD.mx	
+Canal 22	Canal22.mx	
+Canal 4 Guadalajara	Canal4Guadalajara.mx	
+Canal 5	Canal5.mx	
+Canal 5 HD	Canal5HD.mx	
+Canal 52MX	Canal52MX.mx	
+Canal Capital 21	CanalCapital21.mx	
+Cartoon Network	CartoonNetwork.mx	
+Casa Club	CasaClub.mx	
+CBeebies	CBeebies.mx	
+CCTV	CCTV.mx	
+Cine Latino	CineLatino.mx	
+Cinecanal (W)	CinecanalW.mx	
+Cinecanal HD	CinecanalHD.mx	
+Cinemax (O)	CinemaxO.mx	
+Cinemax (W)	CinemaxW.mx	
+ClaroSports	ClaroSports.mx	
+CNN en español	CNNesp.mx	
+Comedy Central	ComedyCentral.mx	
+Comedy Central HD	ComedyCentralHD.mx	
+Concert Channel	ConcertChannel.mx	
+Concert Channel HD	ConcertChannelHD.mx	
+Cosmopolitan	Cosmopolitan.mx	
+De Película	DePelicula.mx	
+De Película Clásico	DePeliculaClasico.mx	
+De Película HD	DePeliculaHD.mx	
+De Película Multiplex	DePeliculaMulti.mx	
+Discovery Channel	DiscoveryChannel.mx	
+Discovery Civilization	DiscoveryCivil.mx	
+Discovery Kids	DiscoveryKids.mx	
+Discovery Science	DiscoverySci.mx	
+Discovery Turbo	DiscoveryTurbo.mx	
+Disney Channel	DisneyChannel.mx	
+Disney Jr	DisneyJr.mx	
+Disney XD	DisneyXD.mx	
+Distrito Comedia	DistritoComedia.mx
+E! Entertainment Television	E.mx	
+EfektoTV	EfektoTV.mx	
+El Gourmet	ElGourmet.mx	
+El Trece	ElTrece.mx	
+El Trece HD	ElTreceHD.mx	
+ESPN	ESPN.mx	
+ESPN +	ESPN+.mx
+ESPN 2	ESPN2.mx	
+ESPN 3	ESPN3.mx	
+ESPN 3 HD	ESPN3HD.mx	
+ESPN HD	ESPNHD.mx	
+Eurochannel	Eurochannel.mx	
+Europa Europa	Europa.mx	
+EXA TV	EXATV.mx	
+Film & Arts	FilmArts.mx	
+Foro TV	ForoTV.mx	
+Foro TV HD	ForoTVHD.mx	
+Fox	Fox.mx
+Fox 1 (E)	Fox1E.mx	
+Fox 1 (W)	Fox1W.mx	
+Fox 1 HD	Fox1HD.mx	
+Fox Action (E)	FoxActionE.mx	
+Fox Action (W)	FoxActionW.mx	
+Fox Action HD	FoxActionHD.mx	
+Fox Cinema	FoxCinema.mx	
+Fox Classics	FoxClassics.mx	
+Fox Family (E)	FoxFamilyE.mx	
+Fox Family (W)	FoxFamilyW.mx	
+Fox Life	FoxLife.mx	
+Fox Movies HD	FoxMoviesHD.mx	
+0
+Fox NatGeo HD	FoxNatGeoHD.mx	
+0
+Fox News	FoxNews.mx	
+0
+Fox Sports	FoxSports.mx	
+0
+Fox Sports 2	FoxSports2.mx	
+1
+Fox Sports 2 HD	FoxSports2HD.mx	
+0
+Fox Sports 3	FoxSports3.mx	
+0
+Fox Sports HD	FoxSportsHD.mx	
+0
+FX	FX.mx	
+0
+FX HD	FXHD.mx	
+0
+Gala TV	GalaTV.mx	
+0
+Glitz	Glitz.mx	
+5
+Golden	Golden.mx	
+0
+Golden Choice Multiplex	GoldenChoiceMulti.mx	
+0
+Golden Edge	GoldenEdge.mx	
+0
+Golden HD	GoldenHD.mx	
+0
+Golf Channel	GolfChannel.mx	
+0
+H2	H2.mx	
+0
+HBO (E)	HBOE.mx	
+0
+HBO (W)	HBOW.mx	
+0
+HBO 2	HBO2.mx	
+0
+HBO Family (E)	HBOFamilyE.mx	
+0
+HBO HD	HBOHD.mx	
+0
+HBO Plus (E)	HBOPlusE.mx	
+0
+HBO Plus (W)	HBOPlusW.mx	
+0
+HBO Signature	HBOSignature.mx	
+0
+HD Theater	HDTheater.mx	
+0
+History Channel	History.mx	
+0
+History HD	HistoryHD.mx	
+0
+Home and Health	HomeHealth.mx	
+0
+Home and Health HD	HomeHealthHD.mx	
+0
+HTV	HTV.mx	
+0
+I.Sat	ISat.mx	
+0
+Imagen Televisión	ImagenTV.mx	
+0
+Infinito	Infinito.mx	
+0
+Investigación Discovery	DiscoveryID.mx	
+0
+Lifetime	Lifetime.mx	
+9
+Más chic	Maschic.mx	
+0
+MAX	MAX.mx	
+0
+Max HD	MaxHD.mx	
+0
+Max Prime (E)	MaxPrimeE.mx	
+0
+Max Prime (W)	MaxPrimeW.mx	
+0
+Max Up	MaxUp.mx	
+0
+MC	MC.mx	
+0
+MGM	MGM.mx	
+0
+MGM HD	MGMHD.mx	
+0
+Milenio TV	MilenioTV.mx	
+0
+Moviecity Action (E)	MoviecityActionE.mx	
+0
+Moviecity Action (W)	MoviecityActionW.mx	
+0
+Moviecity Action HD	MoviecityActionHD.mx	
+0
+Moviecity Classics	MoviecityClassics.mx	
+0
+Moviecity Family (E)	MoviecityFamilyE.mx	
+0
+Moviecity Family (W)	MoviecityFamilyW.mx	
+0
+Moviecity Hollywood	MoviecityHollywood.mx	
+0
+Moviecity Hollywood HD	MoviecityHollywoodHD.mx	
+0
+Moviecity Mundo	MoviecityMundo.mx	
+0
+Moviecity Premieres (E)	MoviecityPremieresE.mx	
+0
+Moviecity Premieres (W)	MoviecityPremieresW.mx	
+0
+Moviecity Premieres HD	MoviecityPremieresHD.mx	
+0
+MTV	MTV.mx	
+0
+MTV Live HD	MTVLiveHD.mx	
+0
+MuchMusic	MuchMusic.mx	
+0
+Multicinema	Multicinema.mx	
+0
+Multimedios Monterrey	MultimediosMonterrey.mx	
+0
+Multipremier	Multipremier.mx	
+0
+Mundo Fox	MundoFox.mx	
+0
+NatGeo	NatGeo.mx	
+1
+NatGeo Wild	NatGeoWild.mx	
+1
+NatGeo Wild HD	NatGeoWildHD.mx	
+0
+NFL Network	NFLNetwork.mx	
+0
+NFL Network HD	NFLNetworkHD.mx	
+0
+NHK	NHK.mx	
+0
+Nick HD	NickHD.mx	
+0
+Nick Jr	NickJr.mx	
+0
+Nickelodeon (Nick)	Nickelodeon.mx	
+0
+Nicktoons	Nicktoons.mx	
+0
+NuMusic	NuMusic.mx	
+0
+Once TV	OnceTV.mx	
+0
+Pánico	Panico.mx	
+0
+Paramount Channel	ParamountChannel.mx	
+0
+Platino	Platino.mx	
+0
+Proyecto 40	Proyecto40.mx	
+0
+RAI	RAI.mx	
+0
+Reality TV	RealityTV.mx	
+0
+Ritmoson Latino	RitmosonLatino.mx	
+0
+Sony	Sony.mx	
+0
+Sony HD	SonyHD.mx	
+0
+Sony Spin	SonySpin.mx	
+0
+Space	Space.mx	
+0
+Space HD	SpaceHD.mx	
+0
+Studio Universal	StudioUniversal.mx	
+0
+SyFy	SyFy.mx	
+0
+TBS	TBS.mx	
+0
+TCM	TCM.mx	
+0
+TDN	TDN.mx	
+0
+TDN HD	TDNHD.mx	
+0
+TeenNick	TeenNick.mx	
+0
+TeleFórmula	TeleFormula.mx	
+0
+Telehit	Telehit.mx	
+0
+Telehit HD	TelehitHD.mx	
+0
+Telemundo	Telemundo.mx	
+0
+Televisión Mexiquense	TVMexiquense.mx	
+0
+The Film Zone (E)	TheFilmZoneE.mx	
+0
+The Film Zone (W)	TheFilmZoneW.mx	
+0
+The Film Zone HD	TheFilmZoneHD.mx	
+0
+TIIN	TIIN.mx	
+0
+TLC	TLC.mx	
+1
+TLC HD	TLCHD.mx	
+0
+Tlnovelas	Tlnovelas.mx	
+0
+TNT	TNT.mx	
+0
+TNT HD	TNTHD.mx	
+0
+Tooncast	Tooncast.mx	
+0
+TruTV	TruTV.mx	
+0
+TruTV HD	TruTVHD.mx	
+0
+TV 5	TV5.mx	
+0
+TV Globo	TVGlobo.mx	
+0
+TV UNAM	TVUNAM.mx	
+0
+TVC	TVC.mx	
+0
+TVC Cine Mexicano	TVCCineMexicano.mx	
+0
+TVC Deportes	TVCDeportes.mx	
+0
+TVC PLATINO 2	TVCPLATINO2.mx	
+0
+TVE	TVE.mx	
+0
+Unicable	Unicable.mx	
+0
+Universal Channel	UniversalChannel.mx	
+0
+Universal HD	UniversalHD.mx	
+0
+Univisión TDN	UnivisionTDN.mx	
+0
+VH1	VH1.mx	
+0
+VH1 HD	VH1HD.mx	
+0
+Warner Channel	WarnerChannel.mx	
+0
+Warner HD	WarnerHD.mx	
+0
+WOBI TV	WOBITV.mx
