@@ -1,33 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="" group-title="Premium",AMC HD
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="" group-title="Series",AMC HD
 http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/136|User-Agent=DkLavf/57.36.100	
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="" group-title="Premium",AMC
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="" group-title="Series",AMC
 http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/136|User-Agent=DkLavf/57.36.100	
-#EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="",Animal Planet
+#EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Discovery",Animal Planet
 http://iptv-line.com:6969/parduvudri@ezehe.com/WZcoImyTSh/5203
 #EXTINF:-1 tvg-id="antena3.mx" tvg-name="Antena 3" tvg-logo="http://mundovideomx.tv/imagenes/picons/l/antena3.png" group-title="TV Entretenimiento",Antena 3	
 EXTINF:-1 tvg-id="AXNHD.mx" tvg-name="AXN HD" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",AXN HD
 http://158.69.228.135:8000/welch/welch123/125
 EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",AXN
 http://158.69.228.135:8000/welch/welch123/125	
-AyE	AyE.mx	
-AyE HD	AyEHD.mx	
-AyM Sports	AyMSports.mx	
-Az Clic	AzClic.mx	
-Az Corazón	AzCorazon.mx	
-Az Mix	AzMix.mx	
-Az Mundo	AzMundo.mx	
-Azteca 13	Azteca13.mx	
-Azteca 7	Azteca7.mx	
-Bandamax	Bandamax.mx	
-BBC Entertainment	BBCEntertainment.mx	
-BBC HD	BBCHD.mx	
-Bio	Bio.mx	
-Bloomberg	Bloomberg.mx	
-Boomerang	Boomerang.mx	
-Canal 2	Canal2.mx	
-Canal 2 HD	Canal2HD.mx	
-Canal 22	Canal22.mx	
+EXTINF:-1 tvg-id="AyEHD.mx" tvg-name="A&E HD" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",A&E HD
+http://158.69.228.135:8000/welch/welch123/125
+EXTINF:-1 tvg-id="AyE.mx" tvg-name="A&E" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",A&E
+http://158.69.228.135:8000/welch/welch123/125		
+#EXTINF:-1 tvg-id="AymSports.mx" tvg-name="AYM SPORTS" tvg-logo="http://158.69.228.135:8000/imagenes/97.jpg" group-title="DEPORTES",AYM SPORTS
+http://s0lc.net:8000/live/MAT8126/254JZP/97.m3u8
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="Az Cinema" tvg-logo="" group-title="Azteca",Az Cinema
+http://iptv.wtf:25461/458ksjLK/YG5j0oaw85/11252
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AZ Clic" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="Azteca",Azteca Clic
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_736.png" group-title="Azteca",Az Corazon	
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Az Mundo" tvg-logo="https://s6.postimg.org/lwb80d0lt/azmundo.png" group-title="Azteca" , AZMUNDO
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="AZTECA 13" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-13-HD.png" group-title="Azteca",AZTECA 13	
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="http://images.mi.tv/channels/mx_azteca-7_m.png" group-title="Azteca",Azteca 7	
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno" tvg-logo="" group-title="Azteca",Azteca Uno
+http://iptv.wtf:25461/458ksjLK/YG5j0oaw85/11167
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://www.mediafire.com/convkey/ef43/hhiyverbq8389wczg.jpg" group-title="Musical",BANDAMAX		
+#EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="Bloomberg TV" tvg-logo="http://logos.iptv.wtf/logos/int/bloomberg.png" group-title="Internacional",Bloomberg TV
+http://iptv.wtf:25461/458ksjLK/YG5j0oaw85/11246
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang" tvg-logo="http://38.123.68.180/images/boomerang.png" group-title="Infantil",Boomerang
+#EXTINF:-1 tvg-id="Canal2.mx" tvg-name="Las Estrellas" tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="Televisa", Las Estrellas HD
+http://tv.latintvweb.com:25461/live/ricardogongora/7xjxuf8ekd8wkd/92512.m3u8
+#EXTINF:-1 tvg-id="Canal2.mx" tvg-name="Las Estrellas" tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="Televisa", Las Estrellas
+http://tv.latintvweb.com:25461/live/ricardogongora/7xjxuf8ekd8wkd/92512.m3u8
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-name="Canal22" tvg-logo="https://canal22.org.mx/img/logo.svg" group-title="Cultura", Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
 Canal 4 Guadalajara	Canal4Guadalajara.mx	
 Canal 5	Canal5.mx	
 Canal 5 HD	Canal5HD.mx	
