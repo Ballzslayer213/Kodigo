@@ -24,4 +24,190 @@
 #EXTINF:-1 tvg-id="Canal4Guadalajara.mx" tvg-name="Canal4" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal4televisa.png" group-title="Cultura", Canal 4 Guadalajara
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="Cultura", Canal 5	
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="Cultura", Canal 5	HD
-#EXTINF:-1 tvg-id="Canal52MX.mx" tvg-name="Canal52MX" tvg-logo="https://i.pinimg.com/originals/84/15/d2/8415d27c95d981d5aa28b8b99491582e.png" group-title="Cultura", Canal 52MX			
+#EXTINF:-1 tvg-id="Canal52MX.mx" tvg-name="Canal52MX" tvg-logo="https://i.pinimg.com/originals/84/15/d2/8415d27c95d981d5aa28b8b99491582e.png" group-title="Cultura", Canal 52MX
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-name="CanalCapital21" tvg-logo="" group-title="", Canal Capital 21
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CartoonNetwork" tvg-logo="" group-title="", Cartoon Network     
+#EXTINF:-1 tvg-id="CasaClub.mx" tvg-name="CasaClub" tvg-logo="" group-title="", Casa Club    
+#EXTINF:-1 tvg-id="CBeebies.mx" tvg-name="CBeebies" tvg-logo="" group-title="", CBeebies
+#EXTINF:-1 tvg-id="CCTV.mx " tvg-name="CCTV" tvg-logo="" group-title="", CCTV
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CineLatino" tvg-logo="" group-title="", Cine Latino
+#EXTINF:-1 tvg-id="CinecanalW.mx" tvg-name="CinecanalW.mx" tvg-logo="" group-title="", Cine canal
+#EXTINF:-1 tvg-id="CinecanalHD.mx" tvg-name="CinecanalHD" tvg-logo="" group-title="", Cine canal HD
+#EXTINF:-1 tvg-id="CinemaxO.mx" tvg-name="CinemaxO" tvg-logo="" group-title="", Cinemax
+#EXTINF:-1 tvg-id="CinemaxW.mx" tvg-name="CinemaxW" tvg-logo="" group-title="", CinemaxHD
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name=" ClaroSports" tvg-logo="" group-title="",  Claro Sports
+#EXTINF:-1 tvg-id="CNNesp.mx" tvg-name="CNNesp" tvg-logo="" group-title="", CNN
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral" tvg-logo="" group-title="", Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentralHD.mx" tvg-name="ComedyCentralHD" tvg-logo="" group-title="", Comedy Central HD
+#EXTINF:-1 tvg-id="ConcertChannel.mx" tvg-name="ConcertChannel" tvg-logo="" group-title="", Concert Channel
+#EXTINF:-1 tvg-id="Cosmopolitan.mx" tvg-name="Cosmopolitan" tvg-logo="" group-title="", Cosmopolitan
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DePelicula" tvg-logo="" group-title="", DePelicula
+#EXTINF:-1 tvg-id="DePeliculaClasico.mx" tvg-name="DePeliculaClasico" tvg-logo="" group-title="", DePelicula Clasico
+#EXTINF:-1 tvg-id="DePeliculaHD.mx" tvg-name="DePeliculaHD.mx" tvg-logo="" group-title="", DePelicula HD
+#EXTINF:-1 tvg-id="DePeliculaMulti.mx " tvg-name="DePeliculaMulti" tvg-logo="" group-title="", DePelicula Multi
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DiscoveryChannel" tvg-logo="" group-title="", Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryCivil.mx" tvg-name="DiscoveryCivil" tvg-logo="" group-title="", Discovery Civil
+#EXTINF:-1 tvg-id="DiscoveryKids.mx " tvg-name="DiscoveryKids" tvg-logo="" group-title="", Discovery Kids
+#EXTINF:-1 tvg-id="DiscoverySci.mx" tvg-name="DiscoverySci" tvg-logo="" group-title="", Discovery Sci
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo" tvg-logo="" group-title="", Discovery Turbo
+#EXTINF:-1 tvg-id="DisneyChannel.mx " tvg-name="DisneyChannel" tvg-logo="" group-title="", Disney Channel
+#EXTINF:-1 tvg-id="DisneyJr.mx" tvg-name="DisneyJr" tvg-logo="" group-title="", Disney Jr
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="DisneyXD" tvg-logo="" group-title="", Disney XD   
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia" tvg-logo="" group-title="", Distrito Comedia
+#EXTINF:-1 tvg-id="E.mx" tvg-name="E!" tvg-logo="" group-title="", E! Entertainment Television   
+#EXTINF:-1 tvg-id="EfektoTV.mx" tvg-name="EfektoTV" tvg-logo="" group-title="", Efekto TV   
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="" group-title="", El Gourmetl
+#EXTINF:-1 tvg-id="ElTrece.mx" tvg-name="ElTrece" tvg-logo="" group-title="", El Trece   
+#EXTINF:-1 tvg-id="ElTreceHD.mx" tvg-name="ElTreceHD" tvg-logo="" group-title="", El Trece HD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="" tvg-logo="ESPN" group-title="", ESPN
+#EXTINF:-1 tvg-id="ESPN+.mx" tvg-name="ESPN+" tvg-logo="" group-title="", ESPN+
+#EXTINF:-1 tvg-id="ESPN2.mx " tvg-name="ESPN2" tvg-logo="" group-title="", ESPN2   
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN3" tvg-logo="" group-title="", ESPN3
+#EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="" tvg-logo="Eurochannel" group-title="", Euro channel
+#EXTINF:-1 tvg-id="Europa.mx" tvg-name="Europa" tvg-logo="" group-title="",  Europa Europa
+#EXTINF:-1 tvg-id="EXATV.mx" tvg-name="" tvg-logo="EXATV" group-title="", EXA TV            
+#EXTINF:-1 tvg-id="FilmArts.mx" tvg-name="Film&Arts" tvg-logo="" group-title="", Film&Arts    
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="ForoTV" tvg-logo="" group-title="", Foro TV    
+#EXTINF:-1 tvg-id="ForoTVHD.mx" tvg-name="ForoTVHD" tvg-logo="" group-title="", Foro TV HD  
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox" tvg-logo="" group-title="",  Fox       
+#EXTINF:-1 tvg-id="FoxPremiumSeries.mx" tvg-name="FoxPremium" tvg-logo="" group-title="Fox", Fox Premium Series
+#EXTINF:-1 tvg-id="FoxPremiumSeries.mx" tvg-name="FoxPremium" tvg-logo="" group-title="Fox", Fox Premium Series HD
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FoxAction" tvg-logo="" group-title="Fox", Fox Action
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FoxAction" tvg-logo="" group-title="Fox", Fox Action HD
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="FoxCinema" tvg-logo="" group-title="", Fox Cinema     
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="FoxClassics" tvg-logo="" group-title="", Fox Classics   
+#EXTINF:-1 tvg-id=" FoxFamily.mx" tvg-name=" FoxFamily" tvg-logo="" group-title="",  Fox Family 
+#EXTINF:-1 tvg-id=" FoxFamily.mx" tvg-name=" FoxFamily" tvg-logo="" group-title="",  Fox Family HD  
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FoxLife" tvg-logo="" group-title="", Fox Life
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FoxMovies" tvg-logo="" group-title="", Fox Movies
+#EXTINF:-1 tvg-id="FoxMoviesHD.mx" tvg-name="FoxMoviesHD" tvg-logo="" group-title="", Fox Movies HD
+#EXTINF:-1 tvg-id="FoxNews.mx" tvg-name="FoxNews" tvg-logo="" group-title="", Fox News  
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FoxSports" tvg-logo="" group-title="",  Fox Sports 
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="" tvg-logo="FoxSports2" group-title="", FoxSports2  
+#EXTINF:-1 tvg-id="FoxSports2HD.mx" tvg-name="FoxSports2HD" tvg-logo="" group-title="",   FoxSports 2 HD
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FoxSports3" tvg-logo="" group-title="", FoxSports3  
+#EXTINF:-1 tvg-id="FoxSportsHD.mx" tvg-name="FoxSportsHD" tvg-logo="" group-title="",   Fox Sports HD
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="" group-title="", FX 
+#EXTINF:-1 tvg-id="FXHD.mx" tvg-name="FXHD" tvg-logo="" group-title="",  FX HD
+#EXTINF:-1 tvg-id="GalaTV.mx" tvg-name="GalaTV" tvg-logo="" group-title="", GalaTV 
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="" group-title="", Glitz 
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="" group-title="", Golden 
+#EXTINF:-1 tvg-id="GoldenChoiceMulti.mx" tvg-name="GoldenChoiceMulti" tvg-logo="" group-title="",  Golden Choice Multiplex
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GoldenEdge" tvg-logo="" group-title="", Golden Edge 
+#EXTINF:-1 tvg-id="GoldenHD.mx" tvg-name="GoldenHD" tvg-logo="" group-title="", Golden HD
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="GolfChannel" tvg-logo="" group-title="", Golf Channel 
+#EXTINF:-1 tvg-id="H2.mx" tvg-name="H2" tvg-logo="" group-title="",  H2
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="" group-title="", HBO 
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="" group-title="", HBO HD
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2" tvg-logo="" group-title="", HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2" tvg-logo="" group-title="", HBO 2 HD
+#EXTINF:-1 tvg-id="HBOFamily.mx " tvg-name="HBOFamily.mx " tvg-logo="" group-title="",   HBO Family
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBOPlus" tvg-logo="" group-title="",   HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBOPlus" tvg-logo="" group-title="",   HBO Plus HD
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBOSignature" tvg-logo="" group-title="", HBOSignature
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBOSignature" tvg-logo="" group-title="", HBOSignature HD
+#EXTINF:-1 tvg-id="HDTheater.mx” tvg-name="HDTheater" tvg-logo="" group-title="", HDTheater  
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="" group-title="", History 
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HistoryHD" tvg-logo="" group-title="", History HD
+#EXTINF:-1 tvg-id="HomeHealth.mx" tvg-name="HomeHealth" tvg-logo="" group-title="", HomeHealth  
+#EXTINF:-1 tvg-id="HomeHealth.mx" tvg-name="HomeHealth" tvg-logo="" group-title="", HomeHealth HD
+#EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="" group-title="", HTV  
+#EXTINF:-1 tvg-id="ISat.mx" tvg-name="ISat" tvg-logo="" group-title="", I Sat  
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="ImagenTV" tvg-logo="" group-title="", ImagenTV  
+#EXTINF:-1 tvg-id="Infinito.mx" tvg-name="Infinito" tvg-logo="" group-title="", Infinito
+#EXTINF:-1 tvg-id="DiscoveryID.mx" tvg-name="DiscoveryID" tvg-logo="" group-title="", Investigación Discovery
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="" group-title="", Lifetime
+#EXTINF:-1 tvg-id="Maschic.mx" tvg-name="Maschic.mx" tvg-logo="" group-title="", Mas chic
+#EXTINF:-1 tvg-id="MAX.mx" tvg-name="MAX" tvg-logo="" group-title="", MAX
+#EXTINF:-1 tvg-id="MAX.mx" tvg-name="MAX" tvg-logo="" group-title="", MAX HD
+#EXTINF:-1 tvg-id="MaxPrime.mx" tvg-name="MaxPrime" tvg-logo="" group-title="", Max Prime
+#EXTINF:-1 tvg-id="MaxPrime.mx" tvg-name="MaxPrime" tvg-logo="" group-title="", Max Prime HD
+#EXTINF:-1 tvg-id="MaxUp.mx" tvg-name="MaxUp" tvg-logo="" group-title="", Max Up
+#EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="" group-title="", MC
+#EXTINF:-1 tvg-id="MGM.mx" tvg-name="MGM" tvg-logo="" group-title="", MGM
+#EXTINF:-1 tvg-id="MGM.mx" tvg-name="MGM" tvg-logo="" group-title="", MGM HD
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MilenioTV" tvg-logo="" group-title="", Milenio TV
+#EXTINF:-1 tvg-id="MoviecityAction.mx" tvg-name="MoviecityAction" tvg-logo="" group-title="", Moviecity Action
+#EXTINF:-1 tvg-id="MoviecityAction.mx" tvg-name="MoviecityAction" tvg-logo="" group-title="", Moviecity Action HD
+#EXTINF:-1 tvg-id="MoviecityClassics.mx" tvg-name="MoviecityClassics" tvg-logo="" group-title="", Moviecity Classics
+#EXTINF:-1 tvg-id="MoviecityFamily.mx" tvg-name="MoviecityFamily" tvg-logo="" group-title="", Moviecity Family
+#EXTINF:-1 tvg-id="MoviecityFamily.mx" tvg-name="MoviecityFamily" tvg-logo="" group-title="", Moviecity Family HD
+#EXTINF:-1 tvg-id="MoviecityHollywood.mx" tvg-name="MoviecityHollywood" tvg-logo="" group-title="", Moviecity Hollywood
+#EXTINF:-1 tvg-id="MoviecityHollywood.mx" tvg-name="MoviecityHollywood" tvg-logo="" group-title="", Moviecity Hollywood HD
+#EXTINF:-1 tvg-id="MoviecityMundo.mx" tvg-name="MoviecityMundo" tvg-logo="" group-title="", Moviecity Mundo
+#EXTINF:-1 tvg-id="MoviecityPremieres.mx" tvg-name="MoviecityPremieres" tvg-logo="" group-title="", Moviecity Premieres
+#EXTINF:-1 tvg-id="MoviecityPremieres.mx" tvg-name="MoviecityPremieres" tvg-logo="" group-title="", Moviecity Premieres HD
+#EXTINF:-1 tvg-id="MTV.mx " tvg-name="MTV" tvg-logo="" group-title="", MTV
+#EXTINF:-1 tvg-id="MTV.mx " tvg-name="MTV" tvg-logo="" group-title="", MTV HD
+#EXTINF:-1 tvg-id="MTVLiveHD.mx" tvg-name="MTVLiveHD" tvg-logo="" group-title="", MTV Live HD
+#EXTINF:-1 tvg-id="MuchMusic.mx" tvg-name="MuchMusic" tvg-logo="" group-title="", Much Music
+#EXTINF:-1 tvg-id="Multicinema.mx" tvg-name="Multicinema" tvg-logo="" group-title="", Multicinema
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-name="MultimediosMonterrey" tvg-logo="" group-title="", Multimedios Monterrey
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="" group-title="", Multipremier
+#EXTINF:-1 tvg-id="MundoFox.mx" tvg-name="MundoFox" tvg-logo="" group-title="", Mundo Fox
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NatGeo" tvg-logo="" group-title="", NatGeo
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NatGeo" tvg-logo="" group-title="", NatGeo HD
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NatGeoWild" tvg-logo="" group-title="", NatGeo Wild
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NatGeoWild" tvg-logo="" group-title="", NatGeo Wild HD
+#EXTINF:-1 tvg-id="NFLNetwork.mx" tvg-name="NFLNetwork" tvg-logo="" group-title="", NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.mx" tvg-name="NFLNetwork" tvg-logo="" group-title="", NFL Network HD
+#EXTINF:-1 tvg-id="NHK.mx" tvg-name="NHK" tvg-logo="" group-title="", NHK
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="" group-title="", Nickelodeon
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NickJr" tvg-logo="" group-title="", Nick Jr
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="" group-title="", Nickelodeon HD 
+#EXTINF:-1 tvg-id="Nicktoons.mx" tvg-name="Nicktoons" tvg-logo="" group-title="", Nicktoons
+#EXTINF:-1 tvg-id="NuMusic.mx" tvg-name="NuMusic" tvg-logo="" group-title="", NuMusic
+#EXTINF:-1 tvg-id="OnceTV.mx" tvg-name="OnceTV" tvg-logo="" group-title="", Once TV
+#EXTINF:-1 tvg-id="Panico.mx" tvg-name="Panico" tvg-logo="" group-title="", Panico
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="ParamountChannel" tvg-logo="" group-title="", Paramount Channel
+#EXTINF:-1 tvg-id="Platino.mx" tvg-name="Platino" tvg-logo="" group-title="", Platino  
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto40.mx" tvg-logo="Proyecto40" group-title="", Proyecto 40  
+#EXTINF:-1 tvg-id="RAI.mx" tvg-name="RAI" tvg-logo="" group-title="", RAI  
+#EXTINF:-1 tvg-id="RealityTV.mx " tvg-name="RealityTV" tvg-logo="" group-title="", Reality TV  
+#EXTINF:-1 tvg-id="RitmosonLatino.mx" tvg-name="RitmosonLatino" tvg-logo="" group-title="", Ritmoson Latino
+#EXTINF:-1 tvg-id="Sony.mx" tvg-name="Sony" tvg-logo="" group-title="", Sony 
+#EXTINF:-1 tvg-id="Sony.mx" tvg-name="Sony" tvg-logo="" group-title="", Sony HD   
+#EXTINF:-1 tvg-id="SonySpin.mx " tvg-name="SonySpin" tvg-logo="" group-title="", Sony Spin 
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="" group-title="", Space 
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="" group-title="", Space HD
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="StudioUniversal" tvg-logo="" group-title="", Studio Universal 
+#EXTINF:-1 tvg-id="SyFy.mx" tvg-name="SyFy" tvg-logo="" group-title="",  SyFy
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="" group-title="", TBS   
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="" group-title="", TCM.mx
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN.mx" tvg-logo="" group-title="", TDN
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN.mx" tvg-logo="" group-title="", TDN HD
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="TeenNick" tvg-logo="" group-title="", TeenNick
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" group-title="", TeleFormula
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit" tvg-logo="" group-title="", Telehit
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit" tvg-logo="" group-title="", Telehit HD
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="" group-title="", Telemundo        
+#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="TVMexiquense" tvg-logo="" group-title="", Televisión Mexiquense       
+#EXTINF:-1 tvg-id="TheFilmZone.mx" tvg-name="TheFilmZone" tvg-logo="" group-title="", The Film Zone
+#EXTINF:-1 tvg-id="TheFilmZone.mx" tvg-name="TheFilmZone" tvg-logo="" group-title="", The Film Zone HD
+#EXTINF:-1 tvg-id="TIIN.mx" tvg-name="TIIN" tvg-logo="" group-title="", TIIN       
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="" group-title="", TLC
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="" group-title="", TLC HD     
+#EXTINF:-1 tvg-id="Tlnovelas.mx" tvg-name="Tlnovelas" tvg-logo="" group-title="", Tlnovelas       
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="" group-title="", TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="" group-title="", TNT HD       
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="" group-title="", Tooncast    
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="" group-title="", TruTV  
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="" group-title="", TruTV HD
+#EXTINF:-1 tvg-id="TV5.mx" tvg-name="TV5" tvg-logo="" group-title="", TV 5  
+#EXTINF:-1 tvg-id="TVGlobo.mx " tvg-name="TV Globo" tvg-logo="" group-title="", TV Globo  
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TVUNAM" tvg-logo="" group-title="", TV UNAM  
+#EXTINF:-1 tvg-id="TVC.mx " tvg-name="TVC" tvg-logo="" group-title="", TVC
+#EXTINF:-1 tvg-id="TVCCineMexicano.mx" tvg-name="TVCCineMexicano" tvg-logo="" group-title="", TVC Cine Mexicano
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVCDeportes" tvg-logo="" group-title="", TVC Deportes
+#EXTINF:-1 tvg-id="TVCPLATINO2.mx" tvg-name="TVCPLATINO2" tvg-logo="" group-title="", TVC PLATINO 2
+#EXTINF:-1 tvg-id="TVE.mx" tvg-name="TVE" tvg-logo="" group-title="", TVE
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="" group-title="", Unicable    
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UniversalChannel" tvg-logo="" group-title="", Universal Channel
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UniversalChannel" tvg-logo="" group-title="", Universal Channel HD
+#EXTINF:-1 tvg-id="UnivisionTDN.mx" tvg-name="UnivisionTDN" tvg-logo="" group-title="", Univision TDN 
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1" tvg-logo="" group-title="", VH1 
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1" tvg-logo="" group-title="", VH1 HD
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WarnerChannel" tvg-logo="" group-title="",  Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WarnerChannel" tvg-logo="" group-title="",  Warner HD
+#EXTINF:-1 tvg-id="WOBITV.mx" tvg-name="WOBITV" tvg-logo="" group-title="", WOBI TV
+
