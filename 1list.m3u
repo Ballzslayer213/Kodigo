@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="" group-title="Series",AMC HD
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="" group-title="Series",AMC
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Series",AMC HD
+http://158.69.127.36:25461/medina/medina/547
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Series",AMC
 #EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Discovery",Animal Planet
 #EXTINF:-1 tvg-id="antena3.mx" tvg-name="Antena 3" tvg-logo="http://mundovideomx.tv/imagenes/picons/l/antena3.png" group-title="TV Entretenimiento",Antena 3	
 #EXTINF:-1 tvg-id="AXNHD.mx" tvg-name="AXN HD" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",AXN HD
@@ -8,7 +9,8 @@
 #EXTINF:-1 tvg-id="AyEHD.mx" tvg-name="A&E HD" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",A&E HD
 #EXTINF:-1 tvg-id="AyE.mx" tvg-name="A&E" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",A&E
 #EXTINF:-1 tvg-id="AymSports.mx" tvg-name="AYM SPORTS" tvg-logo="http://158.69.228.135:8000/imagenes/97.jpg" group-title="DEPORTES",AYM SPORTS
-#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="Az Cinema" tvg-logo="" group-title="Azteca",Az Cinema
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="Az Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="Azteca",Az Cinema
+http://158.69.127.36:25461/medina/medina/541
 #EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AZ Clic" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="Azteca",Azteca Clic
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_736.png" group-title="Azteca",Az Corazon	
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Az Mundo" tvg-logo="https://s6.postimg.org/lwb80d0lt/azmundo.png" group-title="Azteca" , AZMUNDO
@@ -33,11 +35,13 @@
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CineLatino" tvg-logo="" group-title="", Cine Latino
 #EXTINF:-1 tvg-id="CinecanalW.mx" tvg-name="CinecanalW.mx" tvg-logo="" group-title="", Cine canal
 #EXTINF:-1 tvg-id="CinecanalHD.mx" tvg-name="CinecanalHD" tvg-logo="" group-title="", Cine canal HD
-#EXTINF:-1 tvg-id="CinemaxO.mx" tvg-name="CinemaxO" tvg-logo="" group-title="", Cinemax
-#EXTINF:-1 tvg-id="CinemaxW.mx" tvg-name="CinemaxW" tvg-logo="" group-title="", CinemaxHD
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/800px-Cinemax_new.png" group-title="", Cinemax
+http://158.69.127.36:25461/medina/medina/18087
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/800px-Cinemax_new.png" group-title="", Cinemax HD
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name=" ClaroSports" tvg-logo="" group-title="",  Claro Sports
 #EXTINF:-1 tvg-id="CNNesp.mx" tvg-name="CNNesp" tvg-logo="" group-title="", CNN
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral" tvg-logo="" group-title="", Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral" tvg-logo="https://img2.freepng.es/20180613/ee/kisspng-comedy-central-united-states-comedian-logo-tv-tele-edinburgh-central-5b21a1ba7dd262.4389936415289307465154.jpg" group-title="", Comedy Central
+http://158.69.127.36:25461/medina/medina/492
 #EXTINF:-1 tvg-id="ComedyCentralHD.mx" tvg-name="ComedyCentralHD" tvg-logo="" group-title="", Comedy Central HD
 #EXTINF:-1 tvg-id="ConcertChannel.mx" tvg-name="ConcertChannel" tvg-logo="" group-title="", Concert Channel
 #EXTINF:-1 tvg-id="Cosmopolitan.mx" tvg-name="Cosmopolitan" tvg-logo="" group-title="", Cosmopolitan
@@ -76,7 +80,8 @@
 #EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FoxAction" tvg-logo="" group-title="Fox", Fox Action HD
 #EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="FoxCinema" tvg-logo="" group-title="", Fox Cinema     
 #EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="FoxClassics" tvg-logo="" group-title="", Fox Classics   
-#EXTINF:-1 tvg-id=" FoxFamily.mx" tvg-name=" FoxFamily" tvg-logo="" group-title="",  Fox Family 
+#EXTINF:-1 tvg-id=" FoxFamily.mx" tvg-name=" FoxFamily" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-family-blanco.png.ff94e0e2127dd2bae75d63e66395f10b.png" group-title="",  Fox Family 
+http://158.69.127.36:25461/medina/medina/9266
 #EXTINF:-1 tvg-id=" FoxFamily.mx" tvg-name=" FoxFamily" tvg-logo="" group-title="",  Fox Family HD  
 #EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FoxLife" tvg-logo="" group-title="", Fox Life
 #EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FoxMovies" tvg-logo="" group-title="", Fox Movies
