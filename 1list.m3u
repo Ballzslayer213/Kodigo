@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Series",AMC HD
-http://158.69.127.36:25461/medina/medina/547
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Series",AMC
-http://62.210.124.118:41001/live/cbva100/cbva100/74&type=playlist.m3u8
 #EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Discovery",Animal Planet
 http://62.210.124.118:41001/live/cbva100/cbva100/72&type=playlist.m3u8
 #EXTINF:-1 tvg-id="antena3.mx" tvg-name="Antena 3" tvg-logo="http://mundovideomx.tv/imagenes/picons/l/antena3.png" group-title="TV Entretenimiento",Antena 3	
@@ -170,7 +168,8 @@ http://158.69.127.36:25461/medina/medina/9266
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="ParamountChannel" tvg-logo="" group-title="", Paramount Channel
 #EXTINF:-1 tvg-id="Platino.mx" tvg-name="Platino" tvg-logo="" group-title="", Platino  
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto40.mx" tvg-logo="Proyecto40" group-title="", Proyecto 40  
-#EXTINF:-1 tvg-id="RAI.mx" tvg-name="RAI" tvg-logo="" group-title="", RAI  
+#EXTINF:-1 tvg-id="RT.mx" tvg-name="RT" tvg-logo="" group-title="", RT
+https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1 tvg-id="RealityTV.mx " tvg-name="RealityTV" tvg-logo="" group-title="", Reality TV  
 #EXTINF:-1 tvg-id="RitmosonLatino.mx" tvg-name="RitmosonLatino" tvg-logo="" group-title="", Ritmoson Latino
 #EXTINF:-1 tvg-id="Sony.mx" tvg-name="Sony" tvg-logo="" group-title="", Sony 
