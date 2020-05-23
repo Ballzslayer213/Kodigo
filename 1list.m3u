@@ -1,8 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="",ADN 40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Series",AMC HD
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Series",AMC
 #EXTINF:-1 tvg-ID="animalplanet.mx" tvg-name="Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Discovery",Animal Planet
-http://62.210.124.118:41001/live/cbva100/cbva100/72&type=playlist.m3u8
 #EXTINF:-1 tvg-id="antena3.mx" tvg-name="Antena 3" tvg-logo="http://mundovideomx.tv/imagenes/picons/l/antena3.png" group-title="TV Entretenimiento",Antena 3	
 #EXTINF:-1 tvg-id="AXNHD.mx" tvg-name="AXN HD" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",AXN HD
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",AXN
@@ -10,7 +11,6 @@ http://62.210.124.118:41001/live/cbva100/cbva100/72&type=playlist.m3u8
 #EXTINF:-1 tvg-id="AyE.mx" tvg-name="A&E" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="SERIES",A&E
 #EXTINF:-1 tvg-id="AymSports.mx" tvg-name="AYM SPORTS" tvg-logo="http://158.69.228.135:8000/imagenes/97.jpg" group-title="DEPORTES",AYM SPORTS
 #EXTINF:-1 tvg-id="azcinema.mx" tvg-name="Az Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="Azteca",Az Cinema
-http://158.69.127.36:25461/medina/medina/541
 #EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AZ Clic" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="Azteca",Azteca Clic
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_736.png" group-title="Azteca",Az Corazon	
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Az Mundo" tvg-logo="https://s6.postimg.org/lwb80d0lt/azmundo.png" group-title="Azteca" , AZMUNDO
@@ -18,7 +18,8 @@ http://158.69.127.36:25461/medina/medina/541
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="http://images.mi.tv/channels/mx_azteca-7_m.png" group-title="Azteca",Azteca 7	
 https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno" tvg-logo="" group-title="Azteca",Azteca Uno
-http://cdnapi.kaltura.com/p/459791/sp/45979100/playManifest/entryId/0_qqhagxlh/format/applehttp/protocol/http/uiConfId/38613461/a.m3u8?referrer=aHR0cDovL3d3dy5henRlY2F1bm8uY29t&playSessionId=f8ec3994-3a34-399a-10ec-3e9c5b6f49f6#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://www.mediafire.com/convkey/ef43/hhiyverbq8389wczg.jpg" group-title="Musical",BANDAMAX		
+http://cdnapi.kaltura.com/p/459791/sp/45979100/playManifest/entryId/0_qqhagxlh/format/applehttp/protocol/http/uiConfId/38613461/a.m3u8?referrer=aHR0cDovL3d3dy5henRlY2F1bm8uY29t&playSessionId=f8ec3994-3a34-399a-10ec-3e9c5b6f49f6
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://www.mediafire.com/convkey/ef43/hhiyverbq8389wczg.jpg" group-title="Musical",BANDAMAX		
 #EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="Bloomberg TV" tvg-logo="http://logos.iptv.wtf/logos/int/bloomberg.png" group-title="Internacional",Bloomberg TV
 #EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang" tvg-logo="http://38.123.68.180/images/boomerang.png" group-title="Infantil",Boomerang
 #EXTINF:-1 tvg-id="Canal2.mx" tvg-name="Las Estrellas" tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="Televisa", Las Estrellas HD
@@ -46,7 +47,8 @@ http://158.69.127.36:25461/medina/medina/492
 #EXTINF:-1 tvg-id="ComedyCentralHD.mx" tvg-name="ComedyCentralHD" tvg-logo="" group-title="", Comedy Central HD
 #EXTINF:-1 tvg-id="ConcertChannel.mx" tvg-name="ConcertChannel" tvg-logo="" group-title="", Concert Channel
 #EXTINF:-1 tvg-id="Cosmopolitan.mx" tvg-name="Cosmopolitan" tvg-logo="" group-title="", Cosmopolitan
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DePelicula" tvg-logo="" group-title="", DePelicula
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DePelicula" tvg-logo="https://i.imgur.com/qxse0jH.png" group-title="", DePelicula
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaClasico.mx" tvg-name="DePeliculaClasico" tvg-logo="" group-title="", DePelicula Clasico
 #EXTINF:-1 tvg-id="DePeliculaHD.mx" tvg-name="DePeliculaHD.mx" tvg-logo="" group-title="", DePelicula HD
 #EXTINF:-1 tvg-id="DePeliculaMulti.mx " tvg-name="DePeliculaMulti" tvg-logo="" group-title="", DePelicula Multi
@@ -132,7 +134,8 @@ http://158.69.127.36:25461/medina/medina/9266
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="" group-title="", MC
 #EXTINF:-1 tvg-id="MGM.mx" tvg-name="MGM" tvg-logo="" group-title="", MGM
 #EXTINF:-1 tvg-id="MGM.mx" tvg-name="MGM" tvg-logo="" group-title="", MGM HD
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MilenioTV" tvg-logo="" group-title="", Milenio TV
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MilenioTV" tvg-logo="https://i.imgur.com/KiKtVbb.png" group-title="", Milenio TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-id="MoviecityAction.mx" tvg-name="MoviecityAction" tvg-logo="" group-title="", Moviecity Action
 #EXTINF:-1 tvg-id="MoviecityAction.mx" tvg-name="MoviecityAction" tvg-logo="" group-title="", Moviecity Action HD
 #EXTINF:-1 tvg-id="MoviecityClassics.mx" tvg-name="MoviecityClassics" tvg-logo="" group-title="", Moviecity Classics
@@ -143,12 +146,14 @@ http://158.69.127.36:25461/medina/medina/9266
 #EXTINF:-1 tvg-id="MoviecityMundo.mx" tvg-name="MoviecityMundo" tvg-logo="" group-title="", Moviecity Mundo
 #EXTINF:-1 tvg-id="MoviecityPremieres.mx" tvg-name="MoviecityPremieres" tvg-logo="" group-title="", Moviecity Premieres
 #EXTINF:-1 tvg-id="MoviecityPremieres.mx" tvg-name="MoviecityPremieres" tvg-logo="" group-title="", Moviecity Premieres HD
-#EXTINF:-1 tvg-id="MTV.mx " tvg-name="MTV" tvg-logo="" group-title="", MTV
+#EXTINF:-1 tvg-id="MTV.mx " tvg-name="MTV" tvg-logo="https://i.imgur.com/7BE9Cpp.png" group-title="", MTV
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="MTV.mx " tvg-name="MTV" tvg-logo="" group-title="", MTV HD
 #EXTINF:-1 tvg-id="MTVLiveHD.mx" tvg-name="MTVLiveHD" tvg-logo="" group-title="", MTV Live HD
 #EXTINF:-1 tvg-id="MuchMusic.mx" tvg-name="MuchMusic" tvg-logo="" group-title="", Much Music
-#EXTINF:-1 tvg-id="Multicinema.mx" tvg-name="Multicinema" tvg-logo="" group-title="", Multicinema
+#EXTINF:-1 tvg-id="Multicinema.mx" tvg-name="Multicinema" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="", Multicinema
 #EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-name="MultimediosMonterrey" tvg-logo="" group-title="", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="" group-title="", Multipremier
 #EXTINF:-1 tvg-id="MundoFox.mx" tvg-name="MundoFox" tvg-logo="" group-title="", Mundo Fox
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NatGeo" tvg-logo="" group-title="", NatGeo
